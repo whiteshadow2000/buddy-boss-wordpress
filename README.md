@@ -4,6 +4,9 @@ Boss 2.0 is a responsive WordPress/BuddyPress theme that provides a whole new wa
 ##Home Page
 http://www.buddyboss.com/product/boss-theme/
 
+##Demo 
+https://boss-buddy-wordpress-rinodung.c9users.io/
+
 ## Account
 admin/##password!12@##
 user1/##password!12@##
@@ -106,3 +109,7 @@ Version 2.5.5 | By WooThemes | View details
 
 Yoast SEO
 Activate | Edit | Delete
+
+Better WordPress Minify
+
+Paid Memberships Pro 1.8.9
