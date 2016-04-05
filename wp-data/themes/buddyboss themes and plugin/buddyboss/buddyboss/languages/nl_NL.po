@@ -1,0 +1,1337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss 4.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-13 20:09-0600\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ buddyboss
+#: 404.php:17
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+# @ buddyboss
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Het lijkt er op dat op deze locatie niets kon worden gevonden. Probeer de "
+"zoekfunctie."
+
+# @ buddyboss
+#: archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijks Archief: %s"
+
+# @ buddyboss
+#: archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks Archief: %s"
+
+# @ buddyboss
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ buddyboss
+#: archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks Archief: %s"
+
+# @ buddyboss
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ buddyboss
+#: archive.php:35
+msgid "Archives"
+msgstr "Archief"
+
+# @ buddyboss
+#: author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Auteur Archief: %s"
+
+# @ buddyboss
+#: author.php:55
+#, php-format
+msgid "About %s"
+msgstr "Over %s"
+
+# @ buddyboss
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Gezocht naar:"
+
+# @ buddyboss
+#: bbpress/form-search.php:17
+msgid "Search"
+msgstr "Gezocht "
+
+# @ buddyboss
+#: bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "in antwoord op: "
+
+# @ buddyboss
+#: bbpress/loop-single-topic.php:63
+#, php-format
+msgid "Started by: %1$s"
+msgstr "Gestart door: %1$s"
+
+# @ buddyboss
+#: bbpress/loop-single-topic.php:72
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "in: <a href=\"%1$s\">%2$s</a>"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:57
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:66
+msgid "Logo"
+msgstr "Logo"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:154
+msgid "Navigation"
+msgstr "Navigatie"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:169
+msgid "Links &amp; Buttons"
+msgstr "Links &amp; Buttons"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:80
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:124
+msgid "WordPress Toolbar"
+msgstr "WordPress Toolbar"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:139
+msgid "Header"
+msgstr "Header"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:199
+msgid "Background (large screens)"
+msgstr "Achtergrond (grote schermen)"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:215
+msgid "Footer #1 (widget area)"
+msgstr "Footer #1 (widget area)"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:230
+msgid "Footer #2"
+msgstr "Footer #2"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:244
+msgid "Colors &rarr; Text"
+msgstr "Kleuren &rarr; Tekst"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:258
+msgid "Site Title &amp; Tagline"
+msgstr "Site Titel &amp; Onderschrift"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:273
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:344
+msgid "Slide Titles"
+msgstr "Slide Titels"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:289
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:358
+msgid "Headings"
+msgstr "Koppen"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:304
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:372
+msgid "Body Content"
+msgstr "Body Inhoud"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:318
+msgid "Typography"
+msgstr "Typografie"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:330
+msgid "Site Title"
+msgstr "Site Titel"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:388
+msgid "Social Media Links"
+msgstr "Sociale Netwerk Links"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:399
+#: footer.php:80
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:411
+#: footer.php:84
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:423
+#: footer.php:88
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:435
+#: footer.php:92
+msgid "Google+"
+msgstr "Google+"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:447
+#: footer.php:96
+msgid "Youtube"
+msgstr "Youtube"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:459
+#: footer.php:100
+msgid "Instagram"
+msgstr "Instagram"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:471
+#: footer.php:104
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:483
+msgid "Email Address"
+msgstr "E-mail adres"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:17
+msgid "Slides"
+msgstr "Slides"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:18
+msgid "Slide"
+msgstr "Slide"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:19
+msgid "Add New"
+msgstr "Slide Toevoegen"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:20
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:22
+msgid "Add New Slide"
+msgstr "Nieuwe Slide"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:21
+msgid "Edit Slide"
+msgstr "Bewerk Slide"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:23
+msgid "View Slide"
+msgstr "Bekijk Slide"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:24
+msgid "Search Slides"
+msgstr "Zoek Slides"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:25
+msgid "No Slides found"
+msgstr "Geen Slides gevonden"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:26
+msgid "No Slides found in trash"
+msgstr "Geen Slides gevonden in prullenbak"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:65
+msgid "Edit Profile"
+msgstr "Bewerk Profiel"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:76
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:85
+msgid "Password"
+msgstr "Wachtwoord"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:88
+msgid "Remember Me"
+msgstr "Onthouden"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:91
+msgid "Log In"
+msgstr "Inloggen"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:94
+#: header.php:66
+msgid "Register"
+msgstr "Registreren"
+
+# @ buddyboss
+#: buddyboss-inc/init.php:219
+msgid "Module does not have the proper info array"
+msgstr "Module heeft geen juiste array info"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:39
+msgid "Primary Menu"
+msgstr "Primaire Menu"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:40
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:46
+msgid "Profile: Extra Links"
+msgstr "Profiel: Extra Links"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:47
+msgid "Group: Extra Links"
+msgstr "Groepen: Extra Links"
+
+# @ buddyboss
+#: buddypress/forums/index.php:111
+msgid "Cancel"
+msgstr "Annuleren"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:175 buddypress/activity/index.php:72
+msgid "Show:"
+msgstr "Toon:"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:466
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:667 single.php:20
+msgid "Post navigation"
+msgstr "Post Navigatie"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:668
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ouder"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:669
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwer <span class=\"meta-nav\">&rarr;</span>"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:694
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:694
+msgid "(Edit)"
+msgstr "(Bewerk)"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:709
+msgid "Post author"
+msgstr "Auteur"
+
+# @ buddyboss
+#. translators: 1: date, 2: time
+#: buddyboss-inc/theme-functions.php:715
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:721
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wacht op goedkeuring."
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:729 content-buddypress.php:78
+#: content-page.php:23 content.php:83 image.php:37
+msgid "Edit"
+msgstr "Bewerk"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:730
+msgid "Reply <span>&darr;</span>"
+msgstr "Reageer <span>&darr;</span>"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:749 buddyboss-inc/theme-functions.php:752
+msgid ", "
+msgstr ","
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:763
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle berichten bekijken van %s"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:1151
+msgid "View Profile"
+msgstr "Profiel Bekijken"
+
+# @ buddyboss
+#: buddypress/activity/index.php:19 buddypress/members/index.php:19
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Alle Leden <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/activity/index.php:29 buddypress/members/index.php:22
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Mijn Vrienden <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/activity/index.php:41 buddypress/groups/index.php:22
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Mijn Groepen <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:15
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Alle Sites <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:19
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Mijn Sites <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:29 buddypress/forums/index.php:36
+#: buddypress/groups/index.php:31 buddypress/members/index.php:30
+msgid "Order By:"
+msgstr "Sorteren op:"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:31 buddypress/forums/index.php:38
+#: buddypress/groups/index.php:34 buddypress/members/index.php:32
+msgid "Last Active"
+msgstr "Laatst Actief"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:32
+msgid "Newest"
+msgstr "Nieuwste"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:33 buddypress/groups/index.php:37
+#: buddypress/members/index.php:36
+msgid "Alphabetical"
+msgstr "Alfabetisch"
+
+# @ buddyboss
+#: buddypress/forums/index.php:22
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Alle Topics <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/forums/index.php:26
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Mijn Topics <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/forums/index.php:39
+msgid "Most Posts"
+msgstr "Meeste Berichten"
+
+# @ buddyboss
+#: buddypress/forums/index.php:40
+msgid "Unreplied"
+msgstr "Onbeantwoord"
+
+# @ buddyboss
+#: buddypress/forums/index.php:77
+msgid "Create New Topic:"
+msgstr "Maak Nieuw Topic:"
+
+# @ buddyboss
+#: buddypress/forums/index.php:81
+msgid "Title:"
+msgstr "Titel:"
+
+# @ buddyboss
+#: buddypress/forums/index.php:84
+msgid "Content:"
+msgstr "Inhoud:"
+
+# @ buddyboss
+#: buddypress/forums/index.php:87
+msgid "Tags (comma separated):"
+msgstr "Tags (komma gescheiden):"
+
+# @ buddyboss
+#: buddypress/forums/index.php:90
+msgid "Post In Group Forum:"
+msgstr "Plaats in Groepsforum:"
+
+# @ buddyboss
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:93
+msgid "----"
+msgstr "----"
+
+# @ buddyboss
+#: buddypress/forums/index.php:110
+msgid "Post Topic"
+msgstr "Plaats Topic"
+
+# @ buddyboss
+#: buddypress/forums/index.php:122
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Je bent nog geen lid van een groep dus je kunt nog niets in groepsfora "
+"plaatsen. Begin met het vinden van een groep en wordt lid. Je kunt ook een "
+"<a href='%s'>nieuwe groep aanmaken</a>. Als je lid bent van een groep ben je "
+"in staat om daar berichten in te plaatsen."
+
+# @ buddyboss
+#: buddypress/groups/groups-loop.php:47
+#: buddypress/groups/single/group-header.php:49
+#, php-format
+msgid "active %s"
+msgstr "actief %s"
+
+# @ buddyboss
+#: buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "Geen groepen gevonden."
+
+# @ buddyboss
+#: buddypress/groups/index.php:19
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Alle groepen <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/groups/index.php:35
+msgid "Most Members"
+msgstr "Meeste Leden"
+
+# @ buddyboss
+#: buddypress/groups/index.php:36
+msgid "Newly Created"
+msgstr "Laatst Aangemaakt"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Groepsnaam (verplicht)"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Groepsbeschrijving (verplicht)"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "Breng groepsleden op de hoogte van veranderingen via de mail"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:32
+#: buddypress/groups/single/admin.php:117
+msgid "Save Changes"
+msgstr "Wijzigingen Opslaan"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "Discussieforum Inschakelen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "Privacy Instellingen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "Dit is een openbare groep"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "Alle leden kunnen lid worden van deze groep."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:64 buddypress/groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "Deze groep wordt weergegeven in het groepsoverzicht en zoekresultaten."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr "Groepsinhoud en activiteiten zijn zichtbaar voor alle leden."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "Dit is een privé groep"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Alleen gebruikers die om een lidmaatschap hebben verzocht en worden "
+"geaccepteerd kunnen zich bij de groep aansluiten."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:75 buddypress/groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Groepsinhoud en activiteit zijn alleen zichtbaar voor leden van de groep."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "Dit is een verborgen groep"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "Alleen leden die uitgenodigd zijn kunnen zich bij de groep aansluiten."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Deze groep wordt niet weergegeven in het groepsoverzicht en zoekresultaten."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "Groepsuitnodigingen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Welke leden van de groep mogen anderen uitnodigen?"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "Alle groepsleden"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "Alleen beheerders en moderators"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "Alleen beheerders"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:127
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Upload een afbeelding voor deze groep. De afbeelding wordt weergegeven op de "
+"groepspagina en in de zoekresultaten."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:131
+msgid "Upload Image"
+msgstr "Afbeelding Uploaden"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+"Wil je de huidige afbeelding verwijderen zonder een nieuwe te plaatsen, "
+"gebruik dan de Verwijder Afbeelding knop."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:139
+msgid "Delete Avatar"
+msgstr "Verwijder Afbeelding"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr "Afbeelding Bijsnijden"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:151
+msgid "Avatar to crop"
+msgstr "Afbeelding bij te snijden"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:154
+msgid "Avatar preview"
+msgstr "Afbeelding Preview"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:157
+msgid "Crop Image"
+msgstr "Afbeelding Bijsnijden"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Beheerders"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:185
+#: buddypress/groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Profielafbeeldingen van %s"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:191
+#: buddypress/groups/single/admin.php:219
+msgid "Demote to Member"
+msgstr "Degradeer naar Lid"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "Moderators"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:218
+#: buddypress/groups/single/admin.php:276
+msgid "Promote to Admin"
+msgstr "Promoveer naar Beheerder"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:232
+msgid "Members"
+msgstr "Leden"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:261
+msgid "(banned)"
+msgstr "(verbannen)"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:270
+msgid "Unban this member"
+msgstr "Lid Ontbannen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:270
+msgid "Remove Ban"
+msgstr "Ban Verwijderen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:274
+msgid "Kick and ban this member"
+msgstr "Verwijder en Verban dit Lid"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:274
+msgid "Kick &amp; Ban"
+msgstr "Verwijderen &amp; Verbannen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:275
+msgid "Promote to Mod"
+msgstr "Promoveer tot Moderator"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:280
+msgid "Remove this member"
+msgstr "Verwijder dit Lid"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:280
+msgid "Remove from group"
+msgstr "Verwijder uit Groep"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:293
+#: buddypress/groups/single/members.php:89
+msgid "This group has no members."
+msgstr "Deze Groep heeft geen Leden"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:323
+#: buddypress/members/single/groups/invites.php:29
+msgid "Accept"
+msgstr "Accepteren"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:325
+#: buddypress/members/single/groups/invites.php:30
+msgid "Reject"
+msgstr "Afwijzen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:338
+msgid "There are no pending membership requests."
+msgstr "Er zijn geen verzoeken tot lidmaatschap."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:355
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"LET OP: Het verwijderen van deze groep zal ook ALLE inhoud van deze groep "
+"verwijderen. Deze actie kan niet ongedaan gemaakt worden."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:358
+msgid "I understand the consequences of deleting this group."
+msgstr "Ik snap de gevolgen van het verwijderen van deze groep."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:363
+msgid "Delete Group"
+msgstr "Groep Verwijderen"
+
+# @ buddyboss
+#: buddypress/groups/single/group-header.php:18
+msgid "Group Admins"
+msgstr "Beheerders"
+
+# @ buddyboss
+#: buddypress/groups/single/group-header.php:27
+msgid "Group Mods"
+msgstr "Moderators"
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr "Kies mensen uit je vriendenlijst"
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:44
+msgid "Remove Invite"
+msgstr "Verwijder Uitnodiging"
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:62
+msgid "Send Invites"
+msgstr "Verzend Uitnodiging"
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:75
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Zodra je vrienden hebt ben je in staat ze uit te nodigen voor je groep."
+
+# @ buddyboss
+#: buddypress/members/index.php:33
+msgid "Newest Registered"
+msgstr "Nieuw Geregistreerd"
+
+# @ buddyboss
+#: buddypress/members/members-loop.php:113
+msgid "Sorry, no members were found."
+msgstr "Helaas, geen leden gevonden."
+
+# @ buddyboss
+#: buddypress/members/single/groups/invites.php:16
+#, php-format
+msgid "%s members"
+msgstr "%s leden"
+
+# @ buddyboss
+#: buddypress/members/single/groups/invites.php:43
+msgid "You have no outstanding group invites."
+msgstr "Je hebt geen openstaande groepsuitnodigingen."
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "Verzend naar (Gebruikers of Vriend)"
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr "Dit bericht is voor alle gebruikers."
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr "Onderwerp"
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:20
+msgid "Message"
+msgstr "Bericht"
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr "Bericht Verzenden"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:34
+msgid "From:"
+msgstr "Van:"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:39
+msgid "To:"
+msgstr "Naar:"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:45
+msgid "View Message"
+msgstr "Bericht Bekijken"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete Message"
+msgstr "Bericht Verwijderen"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete"
+msgstr "Verwijder"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:73
+msgid "Sorry, no messages were found."
+msgstr "Helaas, geen berichten gevonden."
+
+# @ buddyboss
+#: buddypress/members/single/messages/notices-loop.php:35
+msgid "Sent:"
+msgstr "Verzonden:"
+
+# @ buddyboss
+#: buddypress/members/single/messages/notices-loop.php:53
+msgid "Sorry, no notices were found."
+msgstr "Helaas, geen notificaties gevonden."
+
+# @ buddyboss
+#: category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Categorie Archief: %s"
+
+# @ buddyboss
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Gedachte voor &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten op &ldquo;%2$s&rdquo;"
+
+# @ buddyboss
+#: comments.php:44
+msgid "Comment navigation"
+msgstr "Reactie Navigatie"
+
+# @ buddyboss
+#: comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Ouder"
+
+# @ buddyboss
+#: comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwer &rarr;"
+
+# @ buddyboss
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Reageren Uitgeschakeld"
+
+# @ buddyboss
+#: content-none.php:13 index.php:76 search.php:34
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+# @ buddyboss
+#: content-none.php:17 index.php:80
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Helaas, er zijn geen resultaten gevonden. Probeer het nog eens met de "
+"zoekfunctie."
+
+# @ buddyboss
+#: content-page.php:19 content.php:78 image.php:92
+msgid "Pages:"
+msgstr "Pagina's:"
+
+# @ buddyboss
+#: content.php:38
+#, php-format
+msgid "Permalink to %s"
+msgstr "Link naar %s"
+
+# @ buddyboss
+#: content.php:28 content.php:65
+msgid "Leave a reply"
+msgstr "Plaats een Reactie"
+
+# @ buddyboss
+#: content.php:28 content.php:65
+msgid "1 Reply"
+msgstr "1 Reactie"
+
+# @ buddyboss
+#: content.php:28 content.php:65
+msgid "% Replies"
+msgstr "% Reacties"
+
+# @ buddyboss
+#: content.php:77
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+# @ buddyboss
+#: footer.php:64
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+# @ buddyboss
+#: footer.php:108
+msgid "Email"
+msgstr "E-mail"
+
+# @ buddyboss
+#: functions.php:13
+msgid ""
+"BuddyBoss cannot find the starter file, should be located at: *wp root*/wp-"
+"content/themes/buddyboss/buddyboss-inc/init.php"
+msgstr ""
+"Thema kan initiatie bestand niet vinden, deze moet hier staan: *wp root*/wp-"
+"content/themes/buddyboss/buddyboss-inc/init.php"
+
+# @ buddyboss
+#: header.php:69
+msgid "Login"
+msgstr "Inloggen"
+
+# @ buddyboss
+#: header.php:79
+msgid "Skip to content"
+msgstr "Ga naar inhoud"
+
+# @ buddyboss
+#: image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Geplaatst </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> op <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Terug naar %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+
+# @ buddyboss
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+# @ buddyboss
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+# @ buddyboss
+#: index.php:65
+msgid "No posts to display"
+msgstr "Geen berichten om weer te geven"
+
+# @ buddyboss
+#: index.php:69
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te plaatsen? <a href=\"%s\">Begin hier</a>."
+
+# @ buddyboss
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+# @ buddyboss
+#: search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Helaas, er is niets gevonden dat overeen komt met je zoektermen. Probeer het "
+"nog eens met andere woorden."
+
+# @ buddyboss
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+# @ buddyboss
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+# @ buddyboss
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archief: %s"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:110
+msgid "Colors &rarr; Layout"
+msgstr "Kleuren &rarr; Layout"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:184
+msgid "Icons & Indicators"
+msgstr "Iconen & Indicatoren"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:91
+msgid "Toolbar Layout"
+msgstr "Toolbar Layout"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:769 buddyboss-inc/theme-functions.php:771
+#: buddyboss-inc/theme-functions.php:773
+#, php-format
+msgid "%3$s <span class=\"by-author\"> by %4$s</span>"
+msgstr "%3$s <span class=\"by-author\"> door %4$s</span>"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:82
+msgid ""
+"Dock a full-width Toolbar to the top of the page, or float it to the right."
+msgstr "Toon de balk bovenin of rechts boven."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:112
+msgid ""
+"Select your color scheme. To preview in mobile, just collapse the width of "
+"this browser window."
+msgstr ""
+"Kies je kleurenschema. Om een voorbeeld in het menu te hebben verklein je "
+"het venster van je browser."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:246
+msgid ""
+"Text color options. To preview in mobile, just collapse the width of this "
+"browser window."
+msgstr ""
+"Tekst kleur instellingen. Om een voorbeeld in het menu te hebben verklein je "
+"het venster van je browser."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:320
+msgid "Select your desired fonts."
+msgstr "Kies je gewenste lettertypes."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:390
+msgid ""
+"Social media links will display in the footer after you click Save &amp; "
+"Publish."
+msgstr "Sociale media links worden in de footer weergegeven."
+
+# @ buddyboss
+#: footer.php:64
+msgid ""
+"&nbsp;&middot;&nbsp; Designed by <a href=\"http://www.buddyboss.com/\" "
+"target=\"_blank\" title=\"responsive BuddyPress theme\">BuddyBoss</a>"
+msgstr ""
+"&nbsp;&middot;&nbsp; Ontworpen door <a href=\"http://www.buddyboss.com/\" "
+"target=\"_blank\" title=\"responsive BuddyPress theme\">BuddyBoss</a>"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:176
+msgid "Post in:"
+msgstr "Plaatsen in:"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:59
+msgid "Upload logo in place of site title and tagline."
+msgstr ""
+
+# @ buddyboss
+#: buddypress/activity/index.php:19
+msgid "The public activity for everyone on this site."
+msgstr "Publieke activiteiten voor iedereen op de site."
+
+# @ buddyboss
+#: buddypress/activity/index.php:29
+msgid "The activity of my friends only."
+msgstr "Activiteiten van mijn vrienden."
+
+# @ buddyboss
+#: buddypress/activity/index.php:41
+msgid "The activity of groups I am a member of."
+msgstr "Activiteiten van mijn groepen."
+
+# @ buddyboss
+#: buddypress/activity/index.php:51
+msgid "The activity I've marked as a favorite."
+msgstr "Activiteiten gemarkeerd als favoriet."
+
+# @ buddyboss
+#: buddypress/activity/index.php:51
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Mijn Favorieten <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/activity/index.php:59
+msgid "Activity that I have been mentioned in."
+msgstr "Activiteiten waarin ik ben vermeld."
+
+# @ buddyboss
+#: buddypress/activity/index.php:59
+msgid "Mentions"
+msgstr "Vermeldingen"
+
+# @ buddyboss
+#: buddypress/activity/index.php:59
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s nieuw"
+msgstr[1] "%s nieuwe"
+
+# @ buddyboss
+#: buddypress/activity/index.php:67
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+# @ buddyboss
+#: buddypress/activity/index.php:67
+msgid "RSS"
+msgstr "RSS"
+
+# @ buddyboss
+#: buddypress/activity/index.php:74
+msgid "Everything"
+msgstr "Alles"
+
+# @ buddyboss
+#: buddypress/activity/index.php:75
+msgid "Updates"
+msgstr "Updates"
+
+# @ buddyboss
+#: buddypress/activity/index.php:79
+msgid "Posts"
+msgstr "Berichten"
+
+# @ buddyboss
+#: buddypress/activity/index.php:80
+msgid "Comments"
+msgstr "Reacties"
+
+# @ buddyboss
+#: buddypress/activity/index.php:86
+msgid "Forum Topics"
+msgstr "Forum Topics"
+
+# @ buddyboss
+#: buddypress/activity/index.php:87
+msgid "Forum Replies"
+msgstr "Forum Antwoorden"
+
+# @ buddyboss
+#: buddypress/activity/index.php:93
+msgid "New Groups"
+msgstr "Nieuwe Groepen"
+
+# @ buddyboss
+#: buddypress/activity/index.php:94
+msgid "Group Memberships"
+msgstr "Groep Lidmaatschappen"
+
+# @ buddyboss
+#: buddypress/activity/index.php:100
+msgid "Friendships"
+msgstr "Vriendschappen"
+
+# @ buddyboss
+#: buddypress/activity/index.php:104
+msgid "New Members"
+msgstr "Nieuwe Leden"

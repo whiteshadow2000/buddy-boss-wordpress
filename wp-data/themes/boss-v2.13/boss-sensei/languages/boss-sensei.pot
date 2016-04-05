@@ -1,0 +1,451 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Boss for Sensei v1.0.8\n"
+"POT-Creation-Date: 2016-03-05 03:09+0800\n"
+"PO-Revision-Date: 2016-03-05 03:09+0800\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: boss-sensei.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: boss-sensei.php:75
+#, php-format
+msgid "Couldn't load BPCP_Plugin_Check class at:<br/>%s"
+msgstr ""
+
+#: boss-sensei.php:81 boss-sensei.php:117
+#, php-format
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr ""
+
+#: boss-sensei.php:111
+#, php-format
+msgid "Couldn't load main class at:<br/>%s"
+msgstr ""
+
+#: includes/archive-lesson.php:34
+msgid "No lessons found that match your selection."
+msgstr ""
+
+#: includes/buddyboss-plugin-updater.php:84
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: includes/buddyboss-plugin-updater.php:88
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/group-extension.php:23 includes/main-class.php:656
+#: templates/sensei-buddypress/buddypress-group-single.php:88
+#: templates/sensei/content-single-course.php:47
+#: templates/sensei/content-single-course.php:205
+#: templates/sensei/single-course.php:62 templates/sensei/single-course.php:229
+msgid "Course"
+msgstr ""
+
+#: includes/group-extension.php:61
+#, php-format
+msgid "%s Media"
+msgstr ""
+
+#: includes/group-extension.php:112 includes/main-class.php:962
+msgid "Completed"
+msgstr ""
+
+#: includes/group-extension.php:115 includes/main-class.php:965
+msgid "In progress"
+msgstr ""
+
+#: includes/group-extension.php:147 includes/group-extension.php:166
+#: includes/main-class.php:821 includes/main-class.php:1002
+#: includes/main-class.php:1157 includes/main-class.php:1315
+#: includes/main-class.php:1586 includes/main-class.php:1812
+#: templates/sensei-buddypress/author.php:136
+#: templates/sensei/course-results/course-lessons.php:30
+#: templates/sensei/loop-course.php:100 templates/sensei/loop-course.php:188
+#: templates/sensei/single-course/course-lessons.php:53
+#: templates/sensei/single-course/lessons.php:53
+#: widgets/widget-boss-edu-course-progress.php:241
+#: widgets/widget-boss-edu-course-progress.php:268
+msgid "Lessons"
+msgstr ""
+
+#: includes/group-extension.php:224
+#: templates/sensei/course-results/course-lessons.php:83
+#: templates/sensei/course-results/course-lessons.php:125
+#: templates/sensei/loop-lesson.php:63
+#: templates/sensei/single-course/course-lessons.php:111
+#: templates/sensei/single-course/lessons.php:111
+#: widgets/widget-boss-edu-course-progress.php:316
+#, php-format
+msgid "Start %s"
+msgstr ""
+
+#: includes/group-extension.php:230
+#: templates/sensei/course-results/course-lessons.php:83
+#: templates/sensei/course-results/course-lessons.php:125
+#: templates/sensei/loop-lesson.php:69
+#: templates/sensei/single-course/course-lessons.php:117
+#: templates/sensei/single-course/lessons.php:117
+#: widgets/widget-boss-edu-course-progress.php:322
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/group-extension.php:234 includes/main-class.php:992
+#: templates/sensei/loop-lesson.php:73
+#: templates/sensei/single-course/course-lessons.php:121
+#: templates/sensei/single-course/lessons.php:121
+msgid " minutes"
+msgstr ""
+
+#: includes/group-extension.php:248
+msgid "This course has no lessons added yet"
+msgstr ""
+
+#: includes/learner-profile.php:76
+msgid "The user requested does not exist."
+msgstr ""
+
+#: includes/main-class.php:117 includes/main-class.php:124
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/main-class.php:484
+msgid "People who have earned this:"
+msgstr ""
+
+#: includes/main-class.php:550
+msgid "Show Details"
+msgstr ""
+
+#: includes/main-class.php:678 includes/main-class.php:703
+#: includes/main-class.php:738 includes/main-class.php:811
+#: includes/main-class.php:1143 includes/main-class.php:1306
+#: includes/main-class.php:1578 includes/main-class.php:1808
+#: templates/sensei-buddypress/author.php:130
+#: templates/sensei/loop-course.php:95 templates/sensei/loop-course.php:182
+msgid "by "
+msgstr ""
+
+#: includes/main-class.php:680 includes/main-class.php:705
+#: includes/main-class.php:823 templates/sensei-buddypress/author.php:138
+#: templates/sensei/loop-course.php:102 templates/sensei/loop-course.php:190
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: includes/main-class.php:717 includes/main-class.php:920
+msgid "Lesson"
+msgstr ""
+
+#: includes/main-class.php:740
+#, php-format
+msgid "in <a href=\"%1s\">%2s</a>"
+msgstr ""
+
+#: includes/main-class.php:807 templates/sensei-buddypress/author.php:126
+#: templates/sensei/loop-course.php:91 templates/sensei/loop-course.php:178
+#, php-format
+msgid "(%d preview lessons)"
+msgstr ""
+
+#: includes/main-class.php:808 templates/sensei-buddypress/author.php:127
+#: templates/sensei/loop-course.php:92 templates/sensei/loop-course.php:179
+msgid "Preview this course"
+msgstr ""
+
+#: includes/main-class.php:838
+msgid "No courses found that match your selection."
+msgstr ""
+
+#: includes/main-class.php:867 includes/main-class.php:1405
+msgid "Active Courses"
+msgstr ""
+
+#: includes/main-class.php:891 includes/main-class.php:1406
+msgid "Completed Courses"
+msgstr ""
+
+#: includes/main-class.php:918
+msgid "Quiz"
+msgstr ""
+
+#: includes/main-class.php:1162 includes/main-class.php:1587
+#, php-format
+msgid "%1$d of %2$d lessons completed"
+msgstr ""
+
+#: includes/main-class.php:1191 includes/main-class.php:1615
+msgid "Mark as Complete"
+msgstr ""
+
+#: includes/main-class.php:1204 includes/main-class.php:1628
+msgid "Delete Course"
+msgstr ""
+
+#: includes/main-class.php:1232 includes/main-class.php:1359
+#: includes/main-class.php:1655 includes/main-class.php:1856
+msgid "Previous"
+msgstr ""
+
+#: includes/main-class.php:1247 includes/main-class.php:1374
+#: includes/main-class.php:1670 includes/main-class.php:1871
+msgid "Next"
+msgstr ""
+
+#: includes/main-class.php:1332 includes/main-class.php:1827
+msgid "View results"
+msgstr ""
+
+#: includes/main-class.php:1383 includes/main-class.php:1680
+msgid "You have no active courses."
+msgstr ""
+
+#: includes/main-class.php:1384 includes/main-class.php:1880
+msgid "You have not completed any courses yet."
+msgstr ""
+
+#: includes/main-class.php:1386 includes/main-class.php:1682
+msgid "This learner has no active courses."
+msgstr ""
+
+#: includes/main-class.php:1387 includes/main-class.php:1882
+msgid "This learner has not completed any courses yet."
+msgstr ""
+
+#: includes/main-class.php:1398
+msgid "View & reply to private messages sent to your course & lesson teachers."
+msgstr ""
+
+#: includes/main-class.php:1398
+msgid "My Messages"
+msgstr ""
+
+#: includes/main-class.php:1423
+msgid "Start a Course!"
+msgstr ""
+
+#: includes/main-class.php:2015
+msgid "View the Lesson Quiz"
+msgstr ""
+
+#: includes/main-class.php:2042
+msgid "Reset Lesson"
+msgstr ""
+
+#: includes/main-class.php:2057
+#: templates/sensei-buddypress/buddypress-group-single.php:178
+#: templates/sensei/content-single-course.php:132
+#: templates/sensei/single-course.php:153
+#, php-format
+msgid "%s Lesson"
+msgid_plural "%s Lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/main-class.php:2058
+msgid "Module Lessons"
+msgstr ""
+
+#: includes/main-class.php:2078
+msgid "Start Course"
+msgstr ""
+
+#: includes/main-class.php:2429
+msgid "Send Private Message"
+msgstr ""
+
+#: includes/main-class.php:2435
+msgid "Enter your private message."
+msgstr ""
+
+#: includes/main-class.php:2442
+msgid "Send Message"
+msgstr ""
+
+#: includes/requirements-class.php:22 includes/requirements-class.php:40
+msgid "Please first activate a Boss theme"
+msgstr ""
+
+#: templates/sensei-buddypress/active-courses.php:39
+msgid "Take a Course!"
+msgstr ""
+
+#: templates/sensei-buddypress/author.php:25
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: templates/sensei-buddypress/author.php:38
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: templates/sensei-buddypress/author.php:63
+msgid "Courses"
+msgstr ""
+
+#: templates/sensei-buddypress/author.php:68
+msgid "Posts"
+msgstr ""
+
+#: templates/sensei-buddypress/buddypress-group-single.php:136
+#: templates/sensei/content-single-course.php:89
+#: templates/sensei/single-course.php:110
+#: widgets/widget-boss-edu-course-progress.php:175
+#, php-format
+msgid "Currently completed %1$s of %2$s in total"
+msgstr ""
+
+#: templates/sensei-buddypress/buddypress-group-single.php:184
+#: templates/sensei/content-single-course.php:143
+#: templates/sensei/single-course.php:164
+msgid "Watch Introduction"
+msgstr ""
+
+#: templates/sensei/content-single-course.php:134
+#: templates/sensei/single-course.php:155
+msgid " / "
+msgstr ""
+
+#: templates/sensei/content-single-course.php:199
+#: templates/sensei/single-course.php:223
+msgid "Home"
+msgstr ""
+
+#: templates/sensei/content-single-course.php:203
+#: templates/sensei/single-course.php:227
+msgid "Forum"
+msgstr ""
+
+#: templates/sensei/content-single-course.php:206
+#: templates/sensei/single-course.php:230
+msgid "Members"
+msgstr ""
+
+#: templates/sensei/content-single-course.php:207
+#: templates/sensei/single-course.php:231
+msgid "Send Invites"
+msgstr ""
+
+#: templates/sensei/content-single-course.php:209
+#: templates/sensei/single-course.php:233
+msgid "Manage"
+msgstr ""
+
+#: templates/sensei/content-single-lesson.php:124
+#: templates/sensei/single-lesson.php:151
+#, php-format
+msgid "You must first complete %1$s before viewing this Lesson"
+msgstr ""
+
+#: templates/sensei/content-single-lesson.php:124
+#: templates/sensei/single-lesson.php:151
+#, php-format
+msgid "You must first complete: %1$s"
+msgstr ""
+
+#: templates/sensei/course-results/course-lessons.php:109
+#: templates/sensei/single-course/course-lessons.php:45
+#: templates/sensei/single-course/lessons.php:45
+#: widgets/widget-boss-edu-course-progress.php:260
+msgid "Other Lessons"
+msgstr ""
+
+#: templates/sensei/course-results/course-lessons.php:129
+msgid "Total Grade"
+msgstr ""
+
+#: templates/sensei/loop-lesson.php:24
+msgid "Module"
+msgstr ""
+
+#: templates/sensei/single-course.php:295
+msgid "Expand All"
+msgstr ""
+
+#: templates/sensei/single-course.php:295
+msgid "Collapse All"
+msgstr ""
+
+#: templates/sensei/single-quiz/quiz-questions.php:70
+msgid "There are no questions for this Quiz yet. Check back soon."
+msgstr ""
+
+#: widgets/widget-boss-edu-course-progress.php:42
+msgid "This widget will output a progress of current Course."
+msgstr ""
+
+#: widgets/widget-boss-edu-course-progress.php:44
+msgid "(BuddyBoss) - Course Progress"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-progress.php:128
+#: widgets/widget-boss-edu-course-teacher.php:127
+msgid "Title (optional):"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-progress.php:377
+msgid "About this Course"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-progress.php:380
+#: widgets/widget-boss-edu-course-teacher.php:167
+msgid "Course by"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-progress.php:387
+#: widgets/widget-boss-edu-course-teacher.php:228
+msgid "Course Discussion"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-teacher.php:42
+msgid "This widget will output details about Course teacher"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-teacher.php:44
+msgid "(BuddyBoss) - Course Teacher"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-teacher.php:198
+msgid "Contact Lesson Teacher"
+msgstr ""
+
+#: widgets/widget-boss-edu-course-teacher.php:200
+msgid "Contact Course Teacher"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Boss for Sensei"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.buddyboss.com/landing/promos-social/social-learner.php"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Makes Sensei look beautiful with Boss. theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BuddyBoss"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://buddyboss.com"
+msgstr ""

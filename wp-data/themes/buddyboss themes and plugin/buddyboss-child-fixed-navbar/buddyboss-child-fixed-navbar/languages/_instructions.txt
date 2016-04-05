@@ -1,0 +1,31 @@
+/*--------------------------------------------------------------
+LANGUAGE FILE INSTRUCTIONS
+
+Read more at: http://www.buddyboss.com/tutorials/language-translations/
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+Where to find the language files
+--------------------------------------------------------------*/
+
+The packaged language files can be found in your parent theme at 
+/buddyboss/languages/. In there you will see 'en_US.po' and 'en_US.mo'.
+These are the language files with the default translation set to U.S. English.
+
+/*--------------------------------------------------------------
+How to get the lanugage files working
+--------------------------------------------------------------*/
+
+Copy 'en_US.po' and 'en_US.mo' from the parent theme, and add them
+into the /languages/ folder in this child theme. Rename them to reflect your
+country code, an example being 'de_DE.po' and 'de_DE.mo' for Deutschland.
+You can find all of the various country codes at this resource:
+http://codex.wordpress.org/WordPress_in_Your_Language
+
+Make sure you see this line uncommented in your child theme's functions.php file:
+load_theme_textdomain( 'buddyboss', get_stylesheet_directory() . '/languages' );
+
+That line tells WordPress to load your child theme's language files
+in place of the parent theme's language files.
+
+To learn how to edit the language files, head over to this tutorial:
+http://www.buddyboss.com/tutorials/language-translations/

@@ -1,0 +1,581 @@
+/*--------------------------------------------------------------
+This is the Plugins stylesheet.
+Adds CSS compatibility for 3rd party plugins.
+
+----------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 - Global plugin styles
+	1.1 - WordPress Stats
+	1.2 - Gravity Forms
+	1.3 - Subscribe to Comments
+	1.4 - BuddyPress Tweet
+	1.5 - BuddyPress Group Documents
+	1.6 - WooCommerce
+	1.7 - BuddyPress Activity Plus
+	1.8 - SI CAPTCHA Anti-Spam
+	1.9 - Invite Anyone
+	1.10 - BuddyPress Links
+	1.11 - BuddyDrive
+	1.12 - Social Articles
+	1.13 - BP Checkins
+	1.14 - BP Gallery (BuddyDev)
+	1.15 - BP Activity Privacy
+	1.16 - BuddyBoss Media
+	1.17 - BuddyBoss Global Search
+	1.18 - BuddyBoss Inbox
+2.0 - Responsive media queries (mobile styles)
+	2.1 - MAXIMUM width of 720 pixels (phones landscape)
+		2.1.1 - WooCommerce
+		2.1.2 - BuddyPress Activity Plus
+		2.1.3 - Invite Anyone
+		2.1.4 - BuddyPress Links
+		2.1.5 - BP Activity Privacy
+		2.1.6 - Social Articles
+		2.1.7 - BuddyBoss Media
+	2.2 - MINIMUM width of 721 pixels (tablets+)
+		2.2.1 - Social Articles
+		2.2.2 - BuddyBoss Media
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1.0 - Global plugin styles
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+1.1 - WordPress Stats
+--------------------------------------------------------------*/
+
+img#wpstats {
+	display: none;
+}
+
+/*--------------------------------------------------------------
+1.2 - Gravity Forms
+--------------------------------------------------------------*/
+
+.gform_wrapper li,
+.gform_wrapper form li {
+	margin: 0;
+}
+
+/*--------------------------------------------------------------
+1.3 - Subscribe to Comments
+--------------------------------------------------------------*/
+
+.subscribe-to-comments label, .subscribe-to-comments input {
+    display: inline !important;
+}
+
+/*--------------------------------------------------------------
+1.4 - BuddyPress Tweet
+--------------------------------------------------------------*/
+
+#buddypress div.activity-meta span.twitter-share-button {
+	margin-right: 8px;
+}
+
+/*--------------------------------------------------------------
+1.5 - BuddyPress Group Documents
+--------------------------------------------------------------*/
+
+div.docs-info-header {
+	background: #F6F7F8;
+	margin-bottom: 10px;
+	padding: 8px 15px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+div.docs-info-header p.currently-viewing,
+div.docs-info-header #docs-filter-meta {
+	font-size: inherit;
+}
+
+/*--------------------------------------------------------------
+1.6 - WooCommerce
+--------------------------------------------------------------*/
+
+.woocommerce a.added_to_cart, .woocommerce-page a.added_to_cart {
+	clear: left;
+	display: block;
+    padding-top: 1em;
+}
+.woocommerce div.product div.images img,
+.woocommerce #content div.product div.images img,
+.woocommerce-page div.product div.images img,
+.woocommerce-page #content div.product div.images img,
+.woocommerce ul.products li.product a img,
+.woocommerce-page ul.products li.product a img {
+	width: auto !important;
+	max-width: 100% !important;
+}
+.woocommerce div.product div.images,
+.woocommerce #content div.product div.images,
+.woocommerce-page div.product div.images,
+.woocommerce-page #content div.product div.images {
+	width: 30% !important;
+}
+.woocommerce div.product div.summary,
+.woocommerce #content div.product div.summary,
+.woocommerce-page div.product div.summary,
+.woocommerce-page #content div.product div.summary {
+	width: 66% !important;
+}
+.woocommerce table.cart img,
+.woocommerce #content table.cart img,
+.woocommerce-page table.cart img,
+.woocommerce-page #content table.cart img {
+	border: 1px solid #ddd;
+}
+
+/*--------------------------------------------------------------
+1.7 - BuddyPress Activity Plus
+--------------------------------------------------------------*/
+
+.bpfb_form_container {
+	background-color: #f3f7fa !important;
+	border-radius: 2px 2px 0 0;
+}
+input#bpfb_video_url,
+input#bpfb_link_preview_url {
+	width: 98% !important;
+}
+.bpfb_controls_container .qq-upload-button,
+input.bpfb_primary_button {
+	background: #497ea8 !important;
+	border: 1px solid #497ea8 !important;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+/*--------------------------------------------------------------
+1.8 - SI CAPTCHA Anti-Spam
+--------------------------------------------------------------*/
+
+.captchaSizeDivSmall {
+	width: 175px;
+	height: 45px;
+	padding-top: 10px;
+}
+.captchaSizeDivLarge {
+	width: 250px;
+	height: 60px;
+	padding-top: 10px;
+}
+
+/*--------------------------------------------------------------
+1.9 - Invite Anyone
+--------------------------------------------------------------*/
+
+form#invite-anyone-by-email textarea {
+	width: 94% !important;
+}
+#invite-anyone-group-list li {
+	width: 100% !important;
+	height: auto !important;
+	min-height: 32px !important;
+	clear: left !important;
+	margin: 20px 0 0 0 !important;
+	list-style-type: none !important;
+}
+#invite-anyone-group-list li img {
+	width: 30px;
+	height: 30px;
+}
+.invite-anyone form#send-invite-form .left-menu,
+.group-create form#send-invite-form .left-menu {
+	width: 30%;
+	float: left;
+}
+.invite-anyone form#send-invite-form .left-menu li,
+.group-create form#send-invite-form .left-menu li {
+	list-style-type: none;
+	margin: 0;
+}
+.invite-anyone form#send-invite-form #invite-anyone-member-list,
+.group-create form#send-invite-form #invite-anyone-member-list {
+	width: 100%;
+}
+.invite-anyone form#send-invite-form .main-column,
+.group-create form#send-invite-form .main-column {
+	margin-left: 4%;
+	width: 60%;
+	float: right;
+}
+
+/*--------------------------------------------------------------
+1.10 - BuddyPress Links
+--------------------------------------------------------------*/
+
+.item-list-tabs ul li#links-order-select,
+.item-list-tabs ul li#links-category-select {
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+}
+ul#link-list li.avmax-100 div.link-list-left img.avatar {
+	width: 100px !important;
+	height: 100px !important;
+}
+#link-dir-count span.ajax-loader {
+	display: none;
+}
+
+/*--------------------------------------------------------------
+1.11 - BuddyDrive
+--------------------------------------------------------------*/
+
+table#buddydrive-dir {
+	clear: left;
+}
+
+/*--------------------------------------------------------------
+1.12 - Social Articles
+--------------------------------------------------------------*/
+
+#articles-container {
+	max-width: 100% !important;
+	min-width: 0 !important;
+}
+#articles-container .article-content {
+	background: transparent;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 30px;
+}
+#articles-container .article-image {
+	margin: 0;
+	width: auto;
+	height: auto;
+}
+#articles-container .article-image img {
+    margin: 10px 5px 0 15px;
+    width: 80px;
+    height: 80px;
+}
+#articles-container .article-categories {
+	margin-top: 10px;
+}
+
+/*--------------------------------------------------------------
+1.13 - BP Checkins
+--------------------------------------------------------------*/
+
+#whats-new-textarea #bpci-position-me {
+	clear: both;
+    float: left;
+    position: relative;
+    margin: 5px 0;
+    right: 0;
+    top: 0;
+}
+.activity-checkin,
+#bpci-address,
+#bpci-pola-adder input[type="text"],
+form#places-form #new-place-content input[type="text"],
+form#places-form #new-place-content input[type="date"],
+form#places-form #new-place-content input[type="time"],
+#bpci-pola-adder input[type="file"],
+#bpci_use_upload,
+#bpci_use_link {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+/*--------------------------------------------------------------
+1.14 - BP Gallery (BuddyDev)
+--------------------------------------------------------------*/
+
+#gallery_create_form,
+#gallery-organize {
+	float: left;
+    width: 90%;
+    background: #f3f7fa;
+    border: 1px solid #CAD9E2;
+}
+
+/*--------------------------------------------------------------
+1.15 - BP Activity Privacy
+--------------------------------------------------------------*/
+
+#activity-visibility {
+	border: none;
+}
+
+/*--------------------------------------------------------------
+1.16 - BuddyBoss Media
+--------------------------------------------------------------*/
+
+#buddypress #whats-new-submit input[type="submit"].disabled {
+	cursor: default;
+	color: #fff;
+	background-color: #cecece;
+}
+
+/*--------------------------------------------------------------
+1.17 - BuddyBoss Global Search
+--------------------------------------------------------------*/
+
+.bboss_ajax_search_item .item .item-title,
+.bboss_ajax_search_item .item .item-desc {
+    word-break: break-word;
+}
+.bb-global-search-ac li:not(.bbls-category) .bboss_ajax_search_item {
+    padding: 9px 0 9px;
+}
+
+/*--------------------------------------------------------------
+1.18 - BuddyBoss Inbox
+--------------------------------------------------------------*/
+.bbm-attachment a { margin-left: 42px; }
+
+/*--------------------------------------------------------------
+2.0 - Responsive media queries (mobile styles)
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+2.1 - MAXIMUM width of 720 pixels (phones landscape)
+--------------------------------------------------------------*/
+
+@media screen and (max-width: 720px) {
+
+	/*--------------------------------------------------------------
+	2.1.1 - WooCommerce
+	--------------------------------------------------------------*/
+
+	.woocommerce ul.products li.product,
+	.woocommerce-page ul.products li.product {
+		margin: 0 4% 2.992em 0 !important;
+		width: 46% !important;
+	}
+	.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1,
+	.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+		float: left !important;
+		clear: left !important;
+		width: 100% !important;
+	}
+	.woocommerce a.button,
+	.woocommerce button.button,
+	.woocommerce input.button,
+	.woocommerce #respond input#submit,
+	.woocommerce #content input.button,
+	.woocommerce-page a.button,
+	.woocommerce-page button.button,
+	.woocommerce-page input.button,
+	.woocommerce-page #respond input#submit,
+	.woocommerce-page #content input.button {
+		margin: 0 0 10px !important;
+		display: block;
+		clear: left;
+	}
+	.woocommerce .cart-collaterals .cart_totals,
+	.woocommerce-page .cart-collaterals .cart_totals {
+		float: none;
+	    text-align: left;
+	    width: 100%;
+	}
+
+	/*--------------------------------------------------------------
+	2.1.2 - BuddyPress Activity Plus
+	--------------------------------------------------------------*/
+	
+	.bpfb_form_container {
+		padding: 0 !important;
+	}
+	input#bpfb_link_preview_url,
+	input#bpfb_video_url {
+		width: 94% !important;
+	}
+
+	/*--------------------------------------------------------------
+	2.1.3 - Invite Anyone
+	--------------------------------------------------------------*/
+
+	.invite-anyone form#send-invite-form .left-menu,
+	.group-create form#send-invite-form .left-menu {
+		width: 100%;
+		float: none;
+	}
+	.invite-anyone form#send-invite-form #invite-anyone-member-list,
+	.group-create form#send-invite-form #invite-anyone-member-list {
+		width: 97%;
+	}
+	.invite-anyone form#send-invite-form .main-column,
+	.group-create form#send-invite-form .main-column {
+		width: 100%;
+		float: none;
+		clear: left;
+	}
+	.invite-anyone form#send-invite-form #invite-anyone-invite-list img.avatar,
+	.group-create form#send-invite-form #invite-anyone-invite-list img.avatar {
+		position: relative;
+		left: 0;
+		top: 0;
+		float: left;
+		width: 50px !important;
+		height: 50px !important;
+	}
+	#invite-anyone-group-list label {
+		max-width: 75%;
+	}
+	#invite-anyone-group-list label span {
+		line-height: 1 !important;
+	}
+
+	/*--------------------------------------------------------------
+	2.1.4 - BuddyPress Links
+	--------------------------------------------------------------*/
+	
+	.item-list-tabs ul li#links-category-select {
+		padding: 4px 10px !important;
+	}
+	ul#link-list li.avmax-100 div.link-list-left img.avatar {
+		float: left;
+	    position: relative;
+	    left: 0;
+	    top: 0;
+	}
+	ul#link-list div.link-list-right,
+	ul#link-list div.link-list-footer-right {
+		clear: left;
+	    float: left;
+	    margin: 20px 0 0 !important;
+	}
+	ul#link-list li div.meta {
+		padding-left: 0 !important;
+	}
+
+	/*--------------------------------------------------------------
+	2.1.5 - BP Activity Privacy
+	--------------------------------------------------------------*/
+
+	#buddypress div.activity-meta .bp-ap-selectbox {
+		margin: 10px;
+	}
+
+	/*--------------------------------------------------------------
+	2.2.6 - Social Articles
+	--------------------------------------------------------------*/
+
+	body.articles #buddypress ul.nav-tabs {
+		padding: 0 15px;
+	}
+
+	/*--------------------------------------------------------------
+	2.1.7 - BuddyBoss Media
+	--------------------------------------------------------------*/
+
+	#buddyboss-media-add-photo-button {
+		float: left;
+		clear: left;
+		margin: 0 0 15px 15px;
+		padding: 10px 14px;
+		font-weight: 400;
+		font-size: 13px;
+		text-decoration: none;
+		background-color: #fff;
+ 		color: #aaa;
+
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+
+		-webkit-box-shadow: 0 0 0 1px #ccc inset;
+		-moz-box-shadow: 0 0 0 1px #ccc inset;
+		box-shadow: 0 0 0 1px #ccc inset;
+	}
+	#buddyboss-media-add-photo-button:active {
+		background-color: #ddd;
+	}
+	.buddyboss-media-progress,
+	.buddyboss-media-progress-bar,
+	.buddyboss-media-progress-value {
+	float: none;
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	}
+	#buddypress div.buddyboss-media-form-wrapper {
+		padding: 8px 10px;
+		font-size: 14px;
+		border-top: 1px dashed #ddd;
+		overflow: hidden;
+	}
+	#buddypress div.buddyboss-media-form-wrapper form {
+		width: 100%;
+		padding: 0;
+	}
+	#buddypress div.buddyboss-media-form-wrapper form #message {
+		margin-left: 0;
+	}
+	#buddypress #bbmedia-grid-wrapper > ul {
+		width: auto;
+		margin: 0;
+	}
+
+}
+
+/*--------------------------------------------------------------
+2.2 - MINIMUM width of 721 pixels (tablets+)
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 721px) {
+
+	/*--------------------------------------------------------------
+	2.2.1 - Social Articles
+	--------------------------------------------------------------*/
+
+	body.articles #buddypress div#item-body {
+		min-height: 0;
+	}
+	#buddypress div#articles-dir-list {
+		float: right;
+		width: 79%;
+	}
+
+	/*--------------------------------------------------------------
+	2.2.2 - BuddyBoss Media
+	--------------------------------------------------------------*/
+
+	#buddyboss-media-add-photo {
+		position: absolute;
+		right: 0;
+	}
+	#buddyboss-media-add-photo-button {
+		font-size: 12px;
+		background-color: transparent;
+		padding: 0;
+		color: #1db4da;
+	}
+	#buddyboss-media-add-photo-button:hover {
+		-moz-box-shadow: none;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+	#buddypress div.buddyboss-media-form-wrapper form {
+		background-color: #eef1f1;
+		padding: 10px;
+		margin: 18px 0 0;
+	}
+	#buddypress div.buddyboss-media-form-wrapper form #message {
+		margin-top: 0;
+	}
+	#buddypress div.buddyboss-media-form-wrapper form:before {
+		font-family: 'FontAwesome';
+		font-weight: normal;
+		font-style: normal;
+		text-rendering: auto;
+		text-decoration: inherit;
+		speak: none;
+		display: inline-block;
+		line-height: 1;
+		content: "\f0d8";
+		font-size: 30px;
+		-webkit-font-smoothing: antialiased;
+		color: #eef1f1;
+		position: absolute;
+		top: 0;
+		left: 0.5em;
+	}
+
+}

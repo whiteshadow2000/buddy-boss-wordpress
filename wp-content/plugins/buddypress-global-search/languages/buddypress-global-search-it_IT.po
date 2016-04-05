@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Global Search v1.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-25 11:42+0800\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ default
+#: includes/admin.php:240
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+# @ buddypress-global-search
+#: includes/class.BBoss_Global_Search_Helper.php:95
+#: includes/class.BBoss_Global_Search_Helper.php:104
+#: includes/main-class.php:177 includes/main-class.php:186
+#: includes/search-types/class.BBoss_Global_Search_Type.php:39
+#: includes/search-types/class.BBoss_Global_Search_Type.php:48
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+# @ buddypress-global-search
+#: buddypress-global-search.php:71
+#, php-format
+msgid "Couldn't load main class at:<br/>%s"
+msgstr " non è stato possibile caricare la classe principale a:<br/>%s"
+
+# @ buddypress-global-search
+#: buddypress-global-search.php:75
+#, php-format
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Errore Fatale:</h1><hr/><pre>%s</pre>"
+
+# @ buddypress-global-search
+#: includes/admin.php:184
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+# @ buddypress-global-search
+#: includes/admin.php:355 includes/admin.php:396
+msgid "Settings"
+msgstr "Impostazioni"
+
+# @ buddypress-global-search
+#: includes/admin.php:187
+msgid "Items To Search"
+msgstr "Dove vuoi fare le ricerche"
+
+# @ buddypress-global-search
+#: includes/admin.php:221
+msgid "BuddyPress Global Search"
+msgstr "BuddyPress Global Search"
+
+# @ buddypress-global-search
+#: includes/admin.php:308
+msgid "Search the following components:"
+msgstr "Cerca fra i seguenti componenti"
+
+# @ buddypress-global-search
+#: includes/admin.php:311
+msgid "Blog Posts"
+msgstr "Commenti sul Blog"
+
+# @ buddypress-global-search
+#: includes/admin.php:312
+msgid "Members"
+msgstr "Membri"
+
+# @ buddypress-global-search
+#: includes/admin.php:317
+msgid "Forums"
+msgstr "Forums"
+
+# @ buddypress-global-search
+#: includes/admin.php:322
+msgid "Groups"
+msgstr "Gruppi"
+
+# @ buddypress-global-search
+#: includes/admin.php:323
+msgid "Activity"
+msgstr "Bacheca"
+
+# @ buddypress-global-search
+#: includes/admin.php:324
+msgid "Messages"
+msgstr "Messaggi"
+
+# @ buddypress-global-search
+#: includes/class.BBoss_Global_Search_Helper.php:266
+#, php-format
+msgid "View all results for '%s'"
+msgstr "Vedi tutti i risultati per '%s'"
+
+# @ buddypress-global-search
+#: includes/class.BBoss_Global_Search_Helper.php:274
+#, php-format
+msgid "Nothing found for '%s'"
+msgstr "Non è stato trovato nulla per '%s'"
+
+# @ buddypress-global-search
+#: includes/filters.php:104
+msgid "Search Results"
+msgstr "Risultati della ricerca"
+
+# @ buddypress-global-search
+#: includes/main-class.php:435
+msgid "Loading Suggestions"
+msgstr "Carica suggerimenti"
+
+# @ buddypress-global-search
+#: templates/loop/group.php:8
+#, php-format
+msgid "active %s"
+msgstr "abilita %s"
+
+# @ buddypress-global-search
+#: templates/loop/message-ajax.php:9
+msgid "From:"
+msgstr "Da:"
+
+# @ buddypress-global-search
+#: templates/loop/message.php:5
+msgid "Conversation between"
+msgstr "Conversazione fra"
+
+# @ buddypress-global-search
+#: templates/loop/message.php:14
+msgid "and you."
+msgstr "e tu."
+
+# @ buddypress-global-search
+#: templates/loop/message.php:19
+msgid "View Conversation"
+msgstr "Vedi conversazione"
+
+# @ buddypress-global-search
+#: templates/loop/post.php:3
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+# @ buddypress-global-search
+#: templates/no-results-groups.php:1
+msgid "No groups found!"
+msgstr "Nessun Gruppo trovato!"
+
+# @ buddypress-global-search
+#: templates/no-results.php:1
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "La ricerca non ha dato alcun esito positivo. Riprova inserendo altri termini"
+
+# @ buddypress-global-search
+#: includes/admin.php:223
+msgid "Need BuddyPress customizations?"
+msgstr "Hai suggerimenti da darci?"
+
+# @ buddypress-global-search
+#: includes/admin.php:223
+msgid "Say hello."
+msgstr "Clicca qua"
+
+# @ buddypress-global-search
+#: includes/admin.php:188
+msgid "AutoSuggest"
+msgstr "Suggerimenti"
+
+# @ buddypress-global-search
+#: includes/admin.php:295
+msgid "Enable AutoSuggest dropdown in search inputs."
+msgstr "Consenti i suggerimenti nella ricerca"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:232
+msgid "Settings updated."
+msgstr "Impostazioni aggiornate."
+
+# @ buddypress-global-search
+#: includes/admin.php:398
+#, php-format
+msgid "Hey! BuddyPress Global Search has better integration with multisite now. Your settings might have been reset to defaults after update. Please check your %s."
+msgstr "Ciao! BuddyPress Global Search ha migliorato l'integrazione con i \"Multisiti\". Dopo l'aggiornamento le tue impostazioni potrebbero essere resettate ai valori di default . Per favore controlla il tuo %s."
+
+# @ buddypress-global-search
+#: includes/admin.php:402
+msgid "Hide this notice"
+msgstr "Avviso disabilitato"
+
+# @ buddypress-global-search
+#: includes/plugins/awpcp/index.php:65
+msgid "Classifieds"
+msgstr "Annunci"

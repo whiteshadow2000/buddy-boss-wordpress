@@ -1,0 +1,63 @@
+/* Boxed Layout CSS */
+
+#my-courses.ui-tabs .ui-tabs-nav {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#learner-info #my-courses.ui-tabs .ui-tabs-nav {
+    padding-left: 24px;
+    padding-right: 24px; 
+}
+
+.is-desctop .sensei-content {
+    padding-left: 0;
+    padding-right: 0;    
+}
+
+#learner-info #my-courses.ui-tabs .ui-tabs-nav {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+body.single-course #attached-media,
+.single-course #content>article>article.module, 
+.single-course .entry-content,
+.single-course #post-entries,
+.single-course .course>.course-lessons,
+.sensei-content #item-nav .item-list-tabs ul,
+#course-details,
+.single nav.navigation.post-navigation, 
+.single-course .course-header {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+@media screen and (max-width: 1000px) {
+    .is-desctop .sensei-content,
+    body.single-course #attached-media,
+    .single-course #content>article>article.module, 
+    .single-course .entry-content,    
+    .single-course #post-entries,
+    .single-course .course>.course-lessons,
+    .sensei-content #item-nav .item-list-tabs ul,
+    #course-details,
+    .single nav.navigation.post-navigation, 
+    .single-course .course-header {
+        padding-left: 70px;
+        padding-right: 70px;
+    }    
+}
+
+@media screen and (max-width: 822px) {
+    .is-desctop .sensei-content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+#learner-info #my-courses.ui-tabs .ui-tabs-nav,
+.sensei-content #item-nav .item-list-tabs ul {
+    background-color: transparent;
+    border-top: 1px solid rgba(0,0,0,0.11);
+    border-bottom: 1px solid rgba(0,0,0,0.11);
+}

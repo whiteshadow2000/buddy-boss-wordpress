@@ -1,0 +1,57 @@
+/*
+Theme Name:     BuddyBoss 4.2.1 | Shared by themes24x7.com
+Theme URI:      http://www.buddyboss.com/product/buddyboss-theme/
+Description:    The #1 BuddyPress Theme
+Author:         BuddyBoss.com
+Author URI:     http://www.buddyboss.com
+License: 		GNU General Public License v3 or later
+License URI: 	http://www.gnu.org/licenses/gpl-3.0.html
+Version:        4.2.1
+*/
+
+
+/*
+
+-- Stylesheet locations --
+
+All stylesheets (excluding 'buddyboss-slides.css')
+are called from /buddyboss-inc/theme-functions.php and are located
+in the /css/ folder.
+
+'buddyboss-slides.css' is called from /buddyboss-inc/buddyboss-slides-loader.php
+and is located in the /buddyboss-inc/buddyboss-slides/ folder.
+
+
+--- If you are editing CSS via the WordPress admin, do the following ---
+
+1. Install the plugin WP Editor: http://wordpress.org/plugins/wp-editor/
+2. Navigate to Appearance > Theme Editor in the WordPress admin.
+3. Navigate into the /css/ folder of your child theme to edit custom.css.
+
+
+--- The styles are loaded in the following order ---
+
+1. buddyboss-slides.css 			BuddyBoss homepage slider
+2. wordpress.css 					WordPress styles (always loaded)
+3. buddypress.css 					BuddyPress (only if BuddyPress is activated)
+4. bbpress.css						bbPress (only if bbPress is activated)
+5. plugins.css 						Support for 3rd party plugins
+6. adminbar-mobile.css				adminbar (for phones) left and right slide out panels
+
+7. adminbar-desktop-fixed.css		adminbar (for large screens) set to 'Full Width' in Appearance > Customize
+7. adminbar-desktop-floating.css	adminbar (for large screens) set to 'Float Right' in Appearance > Customize
+
+The later on a stylesheet is loaded, the higher precedent it gets.
+So for example, if you define a CSS element in custom.css that has already
+been defined in wordpress.css, the version in custom.css will be used.
+
+Each stylesheet includes a table of contents to help you navigate
+through it. You will notice that many of them include a section with
+media queries. Media queries allow us to detect a browser's screen
+size, and load specific styles only if the screen is larger or smaller
+than that particular size. This allows us to define a large set of
+global styles, and then specific styles for phones, tablets,
+and desktops & laptops - just based on the predicted screen size
+of these devices. That's boss!
+
+*/

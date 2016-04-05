@@ -1,0 +1,250 @@
+/*--------------------------------------------------------------
+This is the BuddyBoss slides stylesheet.
+
+CREDITS:
+Name: Full Width Slider 2.0
+Design and Develpment: Eightyclouds
+Author URI: http://www.eightyclouds.com
+Version: 1.0
+
+----------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 - CSS Reset
+2.0 - Slider Styles
+3.0 - Responsive media queries (mobile styles)
+    3.1 - MAXIMUM width of 720 pixels (phones landscape)
+    3.2 - MAXIMUM width of 380 pixels (phones portrait)
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+1.0 - CSS Reset
+--------------------------------------------------------------*/
+
+body #fwslider * {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+/*--------------------------------------------------------------
+2.0 - Slider Styles
+--------------------------------------------------------------*/
+
+#fwslider {
+    position: relative;
+    background: #000;
+    width: 100%;
+    overflow: hidden;
+}
+
+#fwslider .slider_container {
+}
+
+#fwslider .slide {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+}
+
+#fwslider .slide img {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+#fwslider .slidePrev {
+    background: #000;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: -50px;
+    opacity: 0.5;
+    z-index: 10;
+}
+#fwslider .slideNext {
+    background: #000;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    right: -50px;
+    opacity: 0.5;
+    z-index: 10;
+}
+#fwslider .slidePrev span,
+#fwslider .slideNext span {
+    float: left;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    text-align: center;
+}
+#fwslider .slidePrev span:before {
+    font-family: 'FontAwesome';
+    font-weight: normal;
+    font-style: normal;
+    text-rendering: auto;
+    content: "\f104";
+    text-decoration: inherit;
+    speak: none;
+    font-size: 40px;
+    line-height: 50px;
+    color: #fff;
+}
+#fwslider .slideNext span:before {
+    font-family: 'FontAwesome';
+    font-weight: normal;
+    font-style: normal;
+    text-rendering: auto;
+    content: "\f105";
+    text-decoration: inherit;
+    speak: none;
+    font-size: 40px;
+    line-height: 50px;
+    color: #fff;
+}
+
+#fwslider .timers {
+    height: 4px;
+    position: absolute;
+    bottom: 15px;
+    right: 0;
+    z-index: 3;
+}
+
+#fwslider .timer {
+    height: 4px;
+    width: 40px;
+    background-color: #000;
+    float: left;
+    margin-right: 10px;
+}
+
+#fwslider .progress {
+    height: 4px;
+    width: 0%;
+    background-color: #1db4da;
+    float: left;
+}
+
+
+#fwslider .slide_content {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#fwslider .slide_content_wrap { /* Slider Text Content Container Style */
+    max-width: 1040px;
+    margin: 15% auto;
+    text-align: center;
+}
+
+#fwslider .title,
+#fwslider .description,
+#fwslider .readmore {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#fwslider .title {  /* Slider Title Style */
+    opacity: 0;    
+    font-size: 70px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: -2px;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+#fwslider .description { /* Slider Description Style */
+    opacity: 0;
+    font-size: 18px;
+    clear: both;
+    margin-top: 5px;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+#fwslider .description img {
+    display: none;
+}
+#fwslider .readmore { /* Slider Learn More button Style */
+    opacity: 0;
+    clear: both;
+    margin-top: 14px;
+}
+#fwslider .readmore a {
+    background-color: #1db4da;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 300;
+    text-align: center;
+    text-decoration: none;
+    padding: 6px 11px;
+    -webkit-appearance: none;
+
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}
+#fwslider .readmore a:hover,
+#fwslider .readmore a:active {
+    outline: none;
+    color: #fff;
+    text-decoration: none;
+
+    /* Darken */
+    -moz-box-shadow: inset 0 0 1000px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: inset 0 0 1000px rgba(0, 0, 0, 0.25);
+    box-shadow: inset 0 0 1000px rgba(0, 0, 0, 0.25);
+}
+
+/*--------------------------------------------------------------
+3.0 - Responsive media queries (mobile styles)
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+3.1 - MAXIMUM width of 720 pixels (phones landscape)
+--------------------------------------------------------------*/
+
+@media screen and (max-width: 720px) {
+
+    #fwslider .slide_content_wrap {
+        margin-left: 0;
+        margin-top: 14%;
+    }
+    #fwslider .title {
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    #fwslider .description,
+    #fwslider .timers {
+        display: none !important;
+    }
+
+}
+
+/*--------------------------------------------------------------
+3.2 - MAXIMUM width of 380 pixels (phones portrait)
+--------------------------------------------------------------*/
+
+@media screen and (max-width: 380px) {
+
+    #fwslider .title {
+        font-size: 25px;
+    }
+    #fwslider .slide_content {
+        cursor: pointer;
+    }
+
+}

@@ -1,0 +1,9 @@
+[05-Apr-2016 04:12:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/themes/boss/buddyboss-inc/users-options.php on line 22
+[05-Apr-2016 04:12:01 UTC] PHP Stack trace:
+[05-Apr-2016 04:12:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[05-Apr-2016 04:12:01 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[05-Apr-2016 04:12:01 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:168
+[05-Apr-2016 04:12:01 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[05-Apr-2016 04:12:01 UTC] PHP   5. boss_maybe_import_customizer_to_redux() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[05-Apr-2016 04:12:01 UTC] PHP   6. boss_import_customizer_to_redux() /home/ubuntu/workspace/wp-content/themes/boss/buddyboss-inc/customizer-to-redux.php:20
+[05-Apr-2016 04:12:01 UTC] PHP   7. buddyboss_get_user_social_array() /home/ubuntu/workspace/wp-content/themes/boss/buddyboss-inc/customizer-to-redux.php:233

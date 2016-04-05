@@ -1,0 +1,1341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss 4.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-13 20:09-0600\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ buddyboss
+#: 404.php:17
+msgid "Not Found"
+msgstr "Kunde inte hittas"
+
+# @ buddyboss
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ingenting hittades. Försökt att söka?"
+
+# @ buddyboss
+#: archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagliga arkiv: %s"
+
+# @ buddyboss
+#: archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Månatliga arkiv: %s"
+
+# @ buddyboss
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ buddyboss
+#: archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Årliga arkiv: %s"
+
+# @ buddyboss
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ buddyboss
+#: archive.php:35
+msgid "Archives"
+msgstr "Arkiv"
+
+# @ buddyboss
+#: author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Författar-arkiv: %s"
+
+# @ buddyboss
+#: author.php:55
+#, php-format
+msgid "About %s"
+msgstr "Om %s"
+
+# @ buddyboss
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Sök efter:"
+
+# @ buddyboss
+#: bbpress/form-search.php:17
+msgid "Search"
+msgstr "Sök "
+
+# @ buddyboss
+#: bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "som svar på: "
+
+# @ buddyboss
+#: bbpress/loop-single-topic.php:63
+#, php-format
+msgid "Started by: %1$s"
+msgstr "Startat av: %1$s"
+
+# @ buddyboss
+#: bbpress/loop-single-topic.php:72
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "i: <a href=\"%1$s\">%2$s</a>"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:57
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:66
+msgid "Logo"
+msgstr "Logotyp"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:154
+msgid "Navigation"
+msgstr "Navigering"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:169
+msgid "Links &amp; Buttons"
+msgstr "Länkar &amp; Knappar"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:80
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:124
+msgid "WordPress Toolbar"
+msgstr "WordPress verktygsrad"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:139
+msgid "Header"
+msgstr "Sidhuvud"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:199
+msgid "Background (large screens)"
+msgstr "Bakgrund (störa skärmar)"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:215
+msgid "Footer #1 (widget area)"
+msgstr "Sidfot #1 (widget)"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:230
+msgid "Footer #2"
+msgstr "Sidfot #2"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:244
+msgid "Colors &rarr; Text"
+msgstr "Färger &rarr; Text"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:258
+msgid "Site Title &amp; Tagline"
+msgstr "Webbplatsens titel &amp; slogan"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:273
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:344
+msgid "Slide Titles"
+msgstr "Bildspelsrubriker"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:289
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:358
+msgid "Headings"
+msgstr "Rubriker"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:304
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:372
+msgid "Body Content"
+msgstr "Brödtextinnehåll"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:318
+msgid "Typography"
+msgstr "Typografi"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:330
+msgid "Site Title"
+msgstr "Webbplatsens titel"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:388
+msgid "Social Media Links"
+msgstr "Sociala media-länkar"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:399
+#: footer.php:80
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:411
+#: footer.php:84
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:423
+#: footer.php:88
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:435
+#: footer.php:92
+msgid "Google+"
+msgstr "Google+"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:447
+#: footer.php:96
+msgid "Youtube"
+msgstr "Youtube"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:459
+#: footer.php:100
+msgid "Instagram"
+msgstr "Instagram"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:471
+#: footer.php:104
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:483
+msgid "Email Address"
+msgstr "E-postadress"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:17
+msgid "Slides"
+msgstr "Bildspel"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:18
+msgid "Slide"
+msgstr "Bild"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:19
+msgid "Add New"
+msgstr "Lägg till"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:20
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:22
+msgid "Add New Slide"
+msgstr "Lägg till ny bild"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:21
+msgid "Edit Slide"
+msgstr "Redigera bild"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:23
+msgid "View Slide"
+msgstr "Visa bild"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:24
+msgid "Search Slides"
+msgstr "Sök bilder"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:25
+msgid "No Slides found"
+msgstr "Inga bilder kunde hittas"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:26
+msgid "No Slides found in trash"
+msgstr "Inga bilder kunde hittas i papperskorgen"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:65
+msgid "Edit Profile"
+msgstr "Redigera profil"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:76
+msgid "Username"
+msgstr "Användarnamn"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:85
+msgid "Password"
+msgstr "Lösenord"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:88
+msgid "Remember Me"
+msgstr "Kom ihåg mig"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:91
+msgid "Log In"
+msgstr "Logga in"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:94
+#: header.php:66
+msgid "Register"
+msgstr "Registrera"
+
+# @ buddyboss
+#: buddyboss-inc/init.php:219
+msgid "Module does not have the proper info array"
+msgstr "Modulen har inte rätt information"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:39
+msgid "Primary Menu"
+msgstr "Huvudmeny"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:40
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:46
+msgid "Profile: Extra Links"
+msgstr "Profilsida: Extra länkar"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:47
+msgid "Group: Extra Links"
+msgstr "Grupper: Extra länkar"
+
+# @ buddyboss
+#: buddypress/forums/index.php:111
+msgid "Cancel"
+msgstr "Avbryt"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:175 buddypress/activity/index.php:72
+msgid "Show:"
+msgstr "Visa: "
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:466
+#, php-format
+msgid "Page %s"
+msgstr "Sida %s"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:667 single.php:20
+msgid "Post navigation"
+msgstr "Navigering"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:668
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Äldre inlägg"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:669
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyare inlägg <span class=\"meta-nav\">&rarr;</span>"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:694
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:694
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:709
+msgid "Post author"
+msgstr "Författare"
+
+# @ buddyboss
+#. translators: 1: date, 2: time
+#: buddyboss-inc/theme-functions.php:715
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s kl %2$s"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:721
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar modellering."
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:729 content-buddypress.php:78
+#: content-page.php:23 content.php:83 image.php:37
+msgid "Edit"
+msgstr "Redigera"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:730
+msgid "Reply <span>&darr;</span>"
+msgstr "Besvara <span>&darr;</span>"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:749 buddyboss-inc/theme-functions.php:752
+msgid ", "
+msgstr ", "
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:763
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:1151
+msgid "View Profile"
+msgstr "Visa profil"
+
+# @ buddyboss
+#: buddypress/activity/index.php:19 buddypress/members/index.php:19
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Alla medlemmar <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/activity/index.php:29 buddypress/members/index.php:22
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Mina vänner <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/activity/index.php:41 buddypress/groups/index.php:22
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Mina grupper <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:15
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Alla sajter <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:19
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Mina sajter <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:29 buddypress/forums/index.php:36
+#: buddypress/groups/index.php:31 buddypress/members/index.php:30
+msgid "Order By:"
+msgstr "Sortera på:"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:31 buddypress/forums/index.php:38
+#: buddypress/groups/index.php:34 buddypress/members/index.php:32
+msgid "Last Active"
+msgstr "Senast aktiva"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:32
+msgid "Newest"
+msgstr "Nyast"
+
+# @ buddyboss
+#: buddypress/blogs/index.php:33 buddypress/groups/index.php:37
+#: buddypress/members/index.php:36
+msgid "Alphabetical"
+msgstr "Alfabetiskt"
+
+# @ buddyboss
+#: buddypress/forums/index.php:22
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Alla ämnen <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/forums/index.php:26
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Mina ämnen <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/forums/index.php:39
+msgid "Most Posts"
+msgstr "Flest inlägg"
+
+# @ buddyboss
+#: buddypress/forums/index.php:40
+msgid "Unreplied"
+msgstr "Obesvarat"
+
+# @ buddyboss
+#: buddypress/forums/index.php:77
+msgid "Create New Topic:"
+msgstr "Skapa nytt ämne"
+
+# @ buddyboss
+#: buddypress/forums/index.php:81
+msgid "Title:"
+msgstr "Titel:"
+
+# @ buddyboss
+#: buddypress/forums/index.php:84
+msgid "Content:"
+msgstr "Innehåll:"
+
+# @ buddyboss
+#: buddypress/forums/index.php:87
+msgid "Tags (comma separated):"
+msgstr "Taggar (kommaseparerade):"
+
+# @ buddyboss
+#: buddypress/forums/index.php:90
+msgid "Post In Group Forum:"
+msgstr "Posta i grupp-forum:"
+
+# @ buddyboss
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:93
+msgid "----"
+msgstr "----"
+
+# @ buddyboss
+#: buddypress/forums/index.php:110
+msgid "Post Topic"
+msgstr "Posta inlägg"
+
+# @ buddyboss
+#: buddypress/forums/index.php:122
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Du är inte medlem i någon grupp så du har inga gruppforum att posta i. Om du "
+"vill <a href='%s'>skapa en ny grupp</a> kan du där slå på gruppforum och "
+"posta i det."
+
+# @ buddyboss
+#: buddypress/groups/groups-loop.php:47
+#: buddypress/groups/single/group-header.php:49
+#, php-format
+msgid "active %s"
+msgstr "aktiv %s"
+
+# @ buddyboss
+#: buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "Inga grupper hittades."
+
+# @ buddyboss
+#: buddypress/groups/index.php:19
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Alla grupper <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/groups/index.php:35
+msgid "Most Members"
+msgstr "Flest medlemmar"
+
+# @ buddyboss
+#: buddypress/groups/index.php:36
+msgid "Newly Created"
+msgstr "Senast skapad"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Gruppnamn (obligatoriskt)"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Gruppbeskrivning (obligatoriskt)"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "Meddela gruppmedlemmar om dessa ändringar via e-post"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:32
+#: buddypress/groups/single/admin.php:117
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "Aktivera diskussionsforum"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "Integritetsinställningar"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "Detta är en publik grupp"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "Alla registrerade medlemmar kan gå med i denna grupp."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:64 buddypress/groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "Denna grupp kommer att visas under Grupper och i sökresultat."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+"Gruppens innehåll och aktivitet kommer att vara synliga för alla "
+"webbplatsens medlemmar."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "Detta är en privat grupp"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Bara användare som begär gruppmedlemskap och sedan accepteras kan vara med i "
+"gruppen."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:75 buddypress/groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Gruppens innehåll och aktivitet kommer bara att vara synliga för gruppens "
+"medlemmar."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "Detta är en dold grupp"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "Bara medlemmar som bjudits in kan gå vara med i gruppen."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr "Denna grupp kommer inte att visas under Grupper eller i sökresultat."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "Gruppinbjudningar"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Vilka gruppmedlemmar ska få lov att bjuda in andra?"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "Alla gruppmedlemmar"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "Endast grupp-admins och -moderatorer"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "Endast grupp-admins"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:127
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Ladda upp en gruppbild för denna grupp. Bilden kommer att visas i listan "
+"under Grupper och i sökresultat."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:131
+msgid "Upload Image"
+msgstr "Ladda upp bild"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+"Om du vill ta bort gruppbilden men inte ladda upp en ny, var god använd Ta "
+"bort-knappen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:139
+msgid "Delete Avatar"
+msgstr "Ta bort gruppbild"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr "Beskär gruppbild"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:151
+msgid "Avatar to crop"
+msgstr "Bild att beskära"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:154
+msgid "Avatar preview"
+msgstr "Förhandsvisning"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:157
+msgid "Crop Image"
+msgstr "Beskär bild"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Administratörer"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:185
+#: buddypress/groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr "%ss profilbild"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:191
+#: buddypress/groups/single/admin.php:219
+msgid "Demote to Member"
+msgstr "Ange som medlem"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "Moderatorer"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:218
+#: buddypress/groups/single/admin.php:276
+msgid "Promote to Admin"
+msgstr "Ange som admin"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:232
+msgid "Members"
+msgstr "Medlemmar"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:261
+msgid "(banned)"
+msgstr "(avstängd)"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:270
+msgid "Unban this member"
+msgstr "Tillåt denna medlem igen"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:270
+msgid "Remove Ban"
+msgstr "Ta bort provning"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:274
+msgid "Kick and ban this member"
+msgstr "Sparka och porta denna medlem"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:274
+msgid "Kick &amp; Ban"
+msgstr "Sparka &amp; porta"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:275
+msgid "Promote to Mod"
+msgstr "Ange som moderator"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:280
+msgid "Remove this member"
+msgstr "Ta bort denna medlem"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:280
+msgid "Remove from group"
+msgstr "Ta bort från grupp"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:293
+#: buddypress/groups/single/members.php:89
+msgid "This group has no members."
+msgstr "Denna grupp har inga medlemmar."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:323
+#: buddypress/members/single/groups/invites.php:29
+msgid "Accept"
+msgstr "Acceptera"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:325
+#: buddypress/members/single/groups/invites.php:30
+msgid "Reject"
+msgstr "Neka"
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:338
+msgid "There are no pending membership requests."
+msgstr "Det finns inga avvaktande medlemskapsförfrågningar."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:355
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"VARNING: Tar du bort denna grupp kommer du att radera ALLT innehåll "
+"associerat med den. Det finns ingen återvändo så tänk noga igenom vad du är "
+"på väg att göra."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:358
+msgid "I understand the consequences of deleting this group."
+msgstr "Jag förstår konsekvenserna av att radera denna grupp."
+
+# @ buddyboss
+#: buddypress/groups/single/admin.php:363
+msgid "Delete Group"
+msgstr "Radera grupp"
+
+# @ buddyboss
+#: buddypress/groups/single/group-header.php:18
+msgid "Group Admins"
+msgstr "Gruppansvarig"
+
+# @ buddyboss
+#: buddypress/groups/single/group-header.php:27
+msgid "Group Mods"
+msgstr "Grupp-moderatorer"
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr "Välj vilka vänner du vill bjuda in."
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:44
+msgid "Remove Invite"
+msgstr "Ta bort inbjudan"
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:62
+msgid "Send Invites"
+msgstr "Skicka inbjudan"
+
+# @ buddyboss
+#: buddypress/groups/single/send-invites.php:75
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"När du blivit vän med andra medlemmar kan du bjuda in dessa till din grupp."
+
+# @ buddyboss
+#: buddypress/members/index.php:33
+msgid "Newest Registered"
+msgstr "Senast registrerad"
+
+# @ buddyboss
+#: buddypress/members/members-loop.php:113
+msgid "Sorry, no members were found."
+msgstr "Ledsen, inga medlemmar hittades."
+
+# @ buddyboss
+#: buddypress/members/single/groups/invites.php:16
+#, php-format
+msgid "%s members"
+msgstr "%s medlemmar"
+
+# @ buddyboss
+#: buddypress/members/single/groups/invites.php:43
+msgid "You have no outstanding group invites."
+msgstr "Du har inga gruppinbjudningar kvar."
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "Skicka till (användarnamn eller Vännens Namn)"
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr "Detta är ett meddelande till alla användare."
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr "Rubrik"
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:20
+msgid "Message"
+msgstr "Meddelande"
+
+# @ buddyboss
+#: buddypress/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:34
+msgid "From:"
+msgstr "Från:"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:39
+msgid "To:"
+msgstr "Till:"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:45
+msgid "View Message"
+msgstr "Visa meddelande"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete Message"
+msgstr "Radera meddelande"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete"
+msgstr "Radera"
+
+# @ buddyboss
+#: buddypress/members/single/messages/messages-loop.php:73
+msgid "Sorry, no messages were found."
+msgstr "Ledsen, inga meddelanden hittades."
+
+# @ buddyboss
+#: buddypress/members/single/messages/notices-loop.php:35
+msgid "Sent:"
+msgstr "Skickat:"
+
+# @ buddyboss
+#: buddypress/members/single/messages/notices-loop.php:53
+msgid "Sorry, no notices were found."
+msgstr "Ledsen, inga meddelanden hittades."
+
+# @ buddyboss
+#: category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategori-arkiv: %s"
+
+# @ buddyboss
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ buddyboss
+#: comments.php:44
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+# @ buddyboss
+#: comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+# @ buddyboss
+#: comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+# @ buddyboss
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Kommentarsmöjligheten är avstängd."
+
+# @ buddyboss
+#: content-none.php:13 index.php:76 search.php:34
+msgid "Nothing Found"
+msgstr "Ingenting hittades"
+
+# @ buddyboss
+#: content-none.php:17 index.php:80
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Ledsen, men ingenting hittades. Kanske kan du söka för att hitta någonting "
+"liknande?"
+
+# @ buddyboss
+#: content-page.php:19 content.php:78 image.php:92
+msgid "Pages:"
+msgstr "Sidor:"
+
+# @ buddyboss
+#: content.php:38
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalänk till %s"
+
+# @ buddyboss
+#: content.php:28 content.php:65
+msgid "Leave a reply"
+msgstr "Lämna ett svar"
+
+# @ buddyboss
+#: content.php:28 content.php:65
+msgid "1 Reply"
+msgstr "1 svar"
+
+# @ buddyboss
+#: content.php:28 content.php:65
+msgid "% Replies"
+msgstr "% svar"
+
+# @ buddyboss
+#: content.php:77
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa <span class=\"meta-nav\">&rarr;</span>"
+
+# @ buddyboss
+#: footer.php:64
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+# @ buddyboss
+#: footer.php:108
+msgid "Email"
+msgstr "E-post"
+
+# @ buddyboss
+#: functions.php:13
+msgid ""
+"BuddyBoss cannot find the starter file, should be located at: *wp root*/wp-"
+"content/themes/buddyboss/buddyboss-inc/init.php"
+msgstr ""
+"BuddyBoss kan inte hitta starter-filen som bör ligga i: *wp root*/wp-content/"
+"themes/buddyboss/buddyboss-inc/init.php"
+
+# @ buddyboss
+#: header.php:69
+msgid "Login"
+msgstr "Logga in"
+
+# @ buddyboss
+#: header.php:79
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+# @ buddyboss
+#: image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publicerad </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</"
+"time></span> kl <a href=\"%3$s\" title=\"Länk till fullstor bild\">%4$s "
+"&times; %5$s</a> i <a href=\"%6$s\" title=\"Tillbaka till %7$s\" rel="
+"\"gallery\">%8$s</a>."
+
+# @ buddyboss
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Föregående"
+
+# @ buddyboss
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Nästa &rarr;"
+
+# @ buddyboss
+#: index.php:65
+msgid "No posts to display"
+msgstr "Inga inlägg att visa"
+
+# @ buddyboss
+#: index.php:69
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Redo att skriva ditt första inlägg? <a href=\"%s\">Kom igång här</a>."
+
+# @ buddyboss
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+# @ buddyboss
+#: search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Ledsen, men ingenting matchade din sökterm. Försök igen med några snarlika "
+"sökord."
+
+# @ buddyboss
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+# @ buddyboss
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+# @ buddyboss
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tagg-arkiv: %s"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:110
+msgid "Colors &rarr; Layout"
+msgstr "Färger &rarr; Layout"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:184
+msgid "Icons & Indicators"
+msgstr "Ikoner & Indikationer"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:91
+msgid "Toolbar Layout"
+msgstr "Verktygslayout"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:769 buddyboss-inc/theme-functions.php:771
+#: buddyboss-inc/theme-functions.php:773
+#, php-format
+msgid "%3$s <span class=\"by-author\"> by %4$s</span>"
+msgstr "%3$s <span class=\"by-author\"> av %4$s</span>"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:82
+msgid ""
+"Dock a full-width Toolbar to the top of the page, or float it to the right."
+msgstr ""
+"Fäst en verktygsrad i full bredd överst på webbplatsen, eller placera den "
+"till höger."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:112
+msgid ""
+"Select your color scheme. To preview in mobile, just collapse the width of "
+"this browser window."
+msgstr ""
+"Välj ditt färgschema. För att förhandsgranska mobilvyn kan du förminska "
+"detta webbläsarfönster."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:246
+msgid ""
+"Text color options. To preview in mobile, just collapse the width of this "
+"browser window."
+msgstr ""
+"Välj av textfärg. För att förhandsgranska mobilvyn kan du förminska detta "
+"webbläsarfönster."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:320
+msgid "Select your desired fonts."
+msgstr "Välj önskade typsnitt."
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:390
+msgid ""
+"Social media links will display in the footer after you click Save &amp; "
+"Publish."
+msgstr ""
+"Sociala media-länkar kommer att synas i sidfoten efter att du valt Spara "
+"&amp; Publicera."
+
+# @ buddyboss
+#: footer.php:64
+msgid ""
+"&nbsp;&middot;&nbsp; Designed by <a href=\"http://www.buddyboss.com/\" "
+"target=\"_blank\" title=\"responsive BuddyPress theme\">BuddyBoss</a>"
+msgstr ""
+"&nbsp;&middot;&nbsp; Design av <a href=\"http://www.buddyboss.com/\" target="
+"\"_blank\" title=\"responsive BuddyPress theme\">BuddyBoss</a>"
+
+# @ buddyboss
+#: buddyboss-inc/theme-functions.php:176
+msgid "Post in:"
+msgstr "Posta i:"
+
+# @ buddyboss
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:59
+msgid "Upload logo in place of site title and tagline."
+msgstr "Ladda upp logotyp istället för webbplatsens namn och slogan."
+
+# @ buddyboss
+#: buddypress/activity/index.php:19
+msgid "The public activity for everyone on this site."
+msgstr "Publik aktivitet för alla på denna webbplats."
+
+# @ buddyboss
+#: buddypress/activity/index.php:29
+msgid "The activity of my friends only."
+msgstr "Mina vänners aktivitet."
+
+# @ buddyboss
+#: buddypress/activity/index.php:41
+msgid "The activity of groups I am a member of."
+msgstr "Aktivitet i grupper jag är med i."
+
+# @ buddyboss
+#: buddypress/activity/index.php:51
+msgid "The activity I've marked as a favorite."
+msgstr "Aktivitet jag markerat som favorit."
+
+# @ buddyboss
+#: buddypress/activity/index.php:51
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Mina favoriter <span>%s</span>"
+
+# @ buddyboss
+#: buddypress/activity/index.php:59
+msgid "Activity that I have been mentioned in."
+msgstr "Aktivitet jag omnämnts i."
+
+# @ buddyboss
+#: buddypress/activity/index.php:59
+msgid "Mentions"
+msgstr "Omnämnanden"
+
+# @ buddyboss
+#: buddypress/activity/index.php:59
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ buddyboss
+#: buddypress/activity/index.php:67
+msgid "RSS Feed"
+msgstr "RSS-ström"
+
+# @ buddyboss
+#: buddypress/activity/index.php:67
+msgid "RSS"
+msgstr "RSS"
+
+# @ buddyboss
+#: buddypress/activity/index.php:74
+msgid "Everything"
+msgstr "Allt"
+
+# @ buddyboss
+#: buddypress/activity/index.php:75
+msgid "Updates"
+msgstr "Uppdateringar"
+
+# @ buddyboss
+#: buddypress/activity/index.php:79
+msgid "Posts"
+msgstr "Inlägg"
+
+# @ buddyboss
+#: buddypress/activity/index.php:80
+msgid "Comments"
+msgstr "Kommentarer"
+
+# @ buddyboss
+#: buddypress/activity/index.php:86
+msgid "Forum Topics"
+msgstr "Forum-ämnen"
+
+# @ buddyboss
+#: buddypress/activity/index.php:87
+msgid "Forum Replies"
+msgstr "Forum-svar"
+
+# @ buddyboss
+#: buddypress/activity/index.php:93
+msgid "New Groups"
+msgstr "Nya grupper"
+
+# @ buddyboss
+#: buddypress/activity/index.php:94
+msgid "Group Memberships"
+msgstr "Gruppmedlemskap"
+
+# @ buddyboss
+#: buddypress/activity/index.php:100
+msgid "Friendships"
+msgstr "Vänskap"
+
+# @ buddyboss
+#: buddypress/activity/index.php:104
+msgid "New Members"
+msgstr "Nya medlemmar"

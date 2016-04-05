@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss Wall 1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-31 22:57+0400\n"
+"PO-Revision-Date: 2014-09-02 15:25-0600\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin.php:234
+msgid ""
+"Make sure BuddyPress <strong>Activity Streams</strong> are enabled for the "
+"Wall to function. Go to <em>Settings &rarr; BuddyPress &rarr; Components</em>"
+msgstr ""
+"Убедитесь, что <strong>Лента активности</strong> BuddyPress включена для "
+"нормальной работы Доски. Перейдите к <em>Настройкам &rarr; BuddyPress &rarr; "
+"Компоненты</em>"
+
+# @ buddyboss-wall
+#: includes/admin.php:283
+msgid "Enable Wall Component."
+msgstr "Включить компонент Доска."
+
+#: includes/admin.php:306
+msgid "Allow Wall posting for all members (not just friends)."
+msgstr "Разрешить публикацию всем участникам (не только друзьям)."
+
+# @ buddyboss-wall
+#: includes/admin.php:329
+msgid "Enable mobile theme on iPad."
+msgstr "Использовать мобильную тему на iPad."
+
+# @ buddyboss-wall
+#: includes/admin.php:379
+msgid "Choose a theme for mobile phones."
+msgstr "Выбрать тем для мобильных устройств. "
+
+# @ buddyboss-wall
+#: includes/admin.php:458
+msgid "   image size must be 114 x 114 px"
+msgstr "   размер изображения должен быть 114 x 114 px"
+
+# @ buddyboss-wall
+#: includes/main-class.php:204 includes/main-class.php:211
+msgid "Cheatin&#8217; huh?"
+msgstr "Барахлит, да?"
+
+# @ buddyboss-wall
+#: includes/main-class.php:267 includes/main-class.php:270
+#: includes/wall-class.php:48
+msgid "Wall"
+msgstr "Доска"
+
+#: includes/main-class.php:268
+msgid "News Feed"
+msgstr "Новостная лента"
+
+# @ buddyboss-wall
+#: includes/main-class.php:269 includes/wall-class.php:149
+msgid "My Likes"
+msgstr "Мне нравится"
+
+#: includes/main-class.php:611
+msgid ""
+"To use the <strong>BuddyBoss Wall</strong> plugin, please manually update "
+"your BuddyBoss theme to version 4.0 or above first. <a href=\"http://www."
+"buddyboss.com/upgrading-to-buddyboss-4-0/\">Read how &rarr;</a>"
+msgstr ""
+"Для использования плагина <strong>Доска BuddyBoss</strong>, пожалуйста, "
+"обновите тему оформления BuddyBoss до версии 4.0 или новее. <a href=\"http://"
+"www.buddyboss.com/upgrading-to-buddyboss-4-0/\">Узнать как &rarr;</a>"
+
+# @ buddyboss-wall
+#: includes/main-class.php:612
+msgid "Disable Notice"
+msgstr "Скрыть уведомление."
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Во время выполнения запроса API возникла неизвестная ошибка HTTP.</p> <p><a "
+"href=\"?\" onclick=\"document.location.reload(); return false;\">Попробуйте "
+"ещё раз.</a>"
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:90
+msgid "An unknown error occurred"
+msgstr "Возникла неизвестная ошибка"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:144 includes/wall-template.php:49
+msgid "person"
+msgstr "участник"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:145 includes/wall-hooks.php:112
+#: includes/wall-template.php:50
+msgid "people"
+msgstr "участники"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:146 includes/wall-template.php:54
+msgid "like"
+msgstr "нравится"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:147 includes/wall-template.php:53
+msgid "likes"
+msgstr "нравится"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:148 includes/wall-filters.php:14
+#: includes/wall-hooks.php:258 includes/wall-hooks.php:282
+msgid "Like"
+msgstr "Нравится"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:150 includes/wall-filters.php:18
+#: includes/wall-hooks.php:256 includes/wall-hooks.php:284
+msgid "Unlike"
+msgstr "Не нравится"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:211
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "Что нового в группе &ldquo;%s&rdquo;, %s?"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:213
+#, php-format
+msgid "Write something to %s?"
+msgstr "Написать что-нибудь автору %s?"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:215
+#, php-format
+msgid "What's new, %s?"
+msgstr "Что нового, %s?"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:259
+#, php-format
+msgid "You need to <a href=\"%s\" title=\"Log in\">log in</a>"
+msgstr ""
+"Вам необходимо <a href=\"%s\" title=\"Авторизоваться\">авторизоваться</a>"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:259
+#, php-format
+msgid ""
+" or <a class=\"create-account\" href=\"%s\" title=\"Create an account"
+"\">create an account</a>"
+msgstr ""
+" или <a class=\"create-account\" href=\"%s\" title=\"Cоздать учетную запись"
+"\">cоздать учетную запись</a>"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:259
+msgid " to post to this user's Wall."
+msgstr " для публикации на Доске участника."
+
+# @ buddyboss-wall
+#: includes/wall-class.php:265
+#, php-format
+msgid "You and %s are not friends. Request friendship to post to their Wall."
+msgstr ""
+"Вы и %s пока не дружите. Отправьте приглашение подружиться для публикации на "
+"его доске."
+
+# @ buddyboss-wall
+#: includes/wall-class.php:272
+#, php-format
+msgid ""
+"You are mentioning %s in a new update, this user will be sent a notification "
+"of your message."
+msgstr ""
+"Вы упоминаете автора %s в новом событии. Этот участник получит уведомление о "
+"Вашем сообщении."
+
+# @ buddyboss-wall
+#: includes/wall-filters.php:22
+msgid "Like this"
+msgstr "Мне нравится"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:104 includes/wall-hooks.php:112
+msgid "mentioned"
+msgstr "упомянуты"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:123
+msgid "in a public message"
+msgstr "в открытом сообщении"
+
+#: includes/wall-hooks.php:129
+#, php-format
+msgid "%s posted an update"
+msgstr "%s опубликовал(а) обновление"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:142 includes/wall-hooks.php:452
+#: includes/wall-hooks.php:497
+#, php-format
+msgid "%s'"
+msgstr "%s'"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:145 includes/wall-hooks.php:455
+#: includes/wall-hooks.php:500
+#, php-format
+msgid "%s's"
+msgstr "%s"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:155 includes/wall-hooks.php:458
+#, php-format
+msgid "%s Wall"
+msgstr "%s  Доска"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:168
+#, php-format
+msgid "%s wrote on %s Wall"
+msgstr "%s публиковал(а) на Доске участника %s"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:201
+msgid "Please enter some content to post."
+msgstr "Пожалуйста, введите какой-нибудь текст для отправки."
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:232
+msgid "There was a problem posting your update, please try again."
+msgstr ""
+"Возникла проблема при публикации Вашего обновления. Пожалуйста, попробуйте "
+"еще раз."
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:407
+#, php-format
+msgid "@%s Mentions"
+msgstr "@%s Упоминания"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:410
+#, php-format
+msgid "You have %1$d new mentions"
+msgstr "Вы были упомянуты %1$d раз"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:413
+#, php-format
+msgid "%1$s mentioned you"
+msgstr "%1$s упоминает Вас"
+
+#: includes/wall-hooks.php:442 includes/wall-hooks.php:482
+msgid "You"
+msgstr "Вы"
+
+#: includes/wall-hooks.php:467 includes/wall-hooks.php:492
+msgid "your"
+msgstr "Ваш "
+
+#: includes/wall-hooks.php:517
+msgid "Favorite"
+msgstr "Избранное"
+
+#: includes/wall-hooks.php:519
+msgid "Remove Favorite"
+msgstr "Удалить из избранного"
+
+# @ buddyboss-wall
+#: includes/wall-template.php:126
+#, php-format
+msgid "%s %s %s this."
+msgstr "%s %s %s это."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:141
+msgid "You like this."
+msgstr "Вам это нравится."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:151
+msgid "Error getting likes."
+msgstr "Проблема с помтками нравится."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:177
+#, php-format
+msgid "You and %s %s this."
+msgstr "Вы и %s %s это."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:180
+#, php-format
+msgid "%s %s this."
+msgstr "%s %s это."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:189
+#, php-format
+msgid "You, %s and %s %s this."
+msgstr "Вам, %s и %s %s это."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:192
+#, php-format
+msgid "%s and %s %s this."
+msgstr "%s и %s %s это."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:203
+#, php-format
+msgid "%s other %s"
+msgstr "%s другие %s"
+
+# @ buddyboss-wall
+#: includes/wall-template.php:208
+#, php-format
+msgid "You, %s, %s and %s %s this."
+msgstr "Вам, %s, %s и %s %s это."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:211
+#, php-format
+msgid "%s, %s and %s %s this."
+msgstr "%s, %s и %s %s это."
+
+#: includes/widgets.php:18
+msgid "(BuddyBoss Wall) Most Liked Activity"
+msgstr "(Доска BuddyBoss) Понравившиеся активности"
+
+#: includes/widgets.php:20
+msgid "Display a list of most liked activities site-wide."
+msgstr "Показать список понравившихся на сайте активностей. "
+
+#: includes/widgets.php:31
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/widgets.php:38
+msgid "Max activity posts to show"
+msgstr "Количество активностей для отбражения"
+
+#: includes/widgets.php:45
+msgid "Max words per activity post"
+msgstr "Количество слов в публикации активности"
+
+# @ buddyboss-wall
+#: loader.php:75
+#, php-format
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Не получилось загрузить основной класс: <br/>%s"
+
+# @ buddyboss-wall
+#: loader.php:81
+#, php-format
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Ошибка приложения:</h1><hr/><pre>%s</pre>"
+
+# @ default
+#~ msgid "Save Changes"
+#~ msgstr "Сохранить изменения"

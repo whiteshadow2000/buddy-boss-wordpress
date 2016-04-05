@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss Media v3.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-06 06:01-0000\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ default
+#: includes/admin.php:287
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+# @ buddyboss-media
+#: includes/admin.php:386
+msgid "Enable Media Component."
+msgstr "Activer le composant Media."
+
+# @ buddyboss-media
+#: includes/admin.php:576
+msgid "Enable mobile theme on iPad."
+msgstr "Activer le thème mobile sur iPad"
+
+# @ buddyboss-media
+#: includes/admin.php:626
+msgid "Choose a theme for mobile phones."
+msgstr "Choisir un thème pour téléphone mobile."
+
+# @ buddyboss-media
+#: includes/admin.php:705
+msgid "   image size must be 114 x 114 px"
+msgstr "   la taille de l’image doit être de 114 x 144 px"
+
+# @ buddyboss-media
+#: includes/main-class.php:238 includes/main-class.php:245
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche ?"
+
+# @ buddyboss-media
+#: includes/media-pagination.php:163 includes/media-pagination.php:166
+msgid "First"
+msgstr "Premier"
+
+# @ buddyboss-media
+#: includes/media-pagination.php:207 includes/media-pagination.php:210
+msgid "Last"
+msgstr "Dernier"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:82 includes/types/photo-class.php:488
+msgid "Photos"
+msgstr "Photos"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:189
+msgid "Picture upload currently in progress, please wait until completed."
+msgstr "Le transfer de l’image est en cours, veuillez patienter."
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:190
+msgid "Error uploading photo."
+msgstr "Erreur en transférant la photo."
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:191
+msgid "One moment..."
+msgstr "Un moment…"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:193
+msgid "Upload a Picture"
+msgstr "Ajouter une Image"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:194 includes/types/photo-class.php:387
+#: templates/tag-friends.php:23
+msgid "Cancel"
+msgstr "Annuler"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:195
+msgid "Failed"
+msgstr "L&rsquo;envoi a échoué."
+
+# @ buddyboss-media
+#: includes/types/photo-hooks.php:513
+#, php-format
+msgid "Add a photo, %s"
+msgstr "Ajouter une photo, %s"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:198
+msgid "Photo is currently uploading, please wait!"
+msgstr "Le transfer de la photo est en cours, veuillez patienter."
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:452
+#, php-format
+msgid "Photos <span>%d</span>"
+msgstr "Photos <span>%d</span>"
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Une erreur HTTP est arrivée durant la requête au système.  </p> <p><a href="
+"\"?\" onclick=\"document.location.reload(); return false;\">Essayez encore</"
+"a>"
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:90
+msgid "An unknown error occurred"
+msgstr "Une erreur est survenue"
+
+# @ buddyboss-media
+#: buddyboss-media.php:75
+#, php-format
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Impossible de charger les composantes sur:<br/>%s"
+
+# @ buddyboss-media
+#: buddyboss-media.php:81
+#, php-format
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Erreur Fatale:</h1><hr/><pre>%s</pre>"
+
+# @ buddyboss-media
+#: includes/main-class.php:777
+msgid "Disable Notice"
+msgstr "Desactiver la Notice"
+
+# @ buddyboss-media
+#: includes/main-class.php:776
+msgid ""
+"To use the <strong>BuddyBoss Media</strong> plugin, please manually update "
+"your BuddyBoss theme to version 4.0 or above first. <a href=\"http://www."
+"buddyboss.com/upgrading-to-buddyboss-4-0/\">Read how &rarr;</a>"
+msgstr ""
+"Pour utiliser le plugin <strong>BuddyBoss Media</strong>, veuillez mettre a "
+"jour manuellement votre thème BuddyBoss à la version 4.0 ou plus récent en "
+"premier. <a href=« http://www.buddyboss.com/upgrading-to-"
+"buddyboss-4-0/« >Voir les Instructions &rarr;</a>"
+
+# @ buddyboss-media
+#: includes/admin.php:442
+msgid "Example: "
+msgstr "Exemple: "
+
+# @ buddyboss-media
+#: includes/admin.php:459
+msgid "- None -"
+msgstr "- Aucun -"
+
+# @ buddyboss-media
+#: includes/admin.php:462
+msgid "New Page"
+msgstr "Nouvelle Page"
+
+# @ buddyboss-media
+#: includes/admin.php:463
+msgid ""
+"Use a WordPress page to display all media uploaded by all users. (Optional)"
+msgstr ""
+"Utiliser une page Wordpress pour afficher les médias ajoutés par tous les "
+"membres. (Optionel)"
+
+# @ buddyboss-media
+#: includes/admin.php:194
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+# @ buddyboss-media
+#: includes/admin.php:200
+msgid "User Photos Slug"
+msgstr "Slug des Photos dans le Profil"
+
+# @ buddyboss-media
+#: includes/admin.php:202
+msgid "Global Photos Page"
+msgstr "Page Globale des Photos"
+
+# @ buddyboss-media
+#: includes/admin.php:198
+msgid "Media Component"
+msgstr "Composant Media"
+
+# @ buddyboss-media
+#: includes/admin.php:199
+msgid "Mobile Rotation Fix"
+msgstr "Correction de rotation des Mobiles"
+
+# @ buddyboss-media
+#: includes/admin.php:416
+msgid "Enable fix for mobile uploads rotating."
+msgstr "Activer la correction des photos transférées par appareil mobile."
+
+# @ buddyboss-media
+#: includes/admin.php:419
+msgid ""
+"It's recommended that you have at least 256M-512M of RAM allocated to PHP, "
+"otherwise photo uploads may fail."
+msgstr ""
+"Il est recommandé d’avoir au moins 256M-512M de RAM alloué en PHP, sinon "
+"les transfers peuvent être défectueux."
+
+# @ buddyboss-media
+#: includes/admin.php:421
+msgid "Your current memory limit is "
+msgstr "La mémoire sur le site est actuellement à "
+
+# @ buddyboss-media
+#: includes/admin.php:423
+msgid "You can contact your web host to increase the memory limit."
+msgstr ""
+"Vous pouvez contacter votre hébergeur pour corriger la limite de mémoire."
+
+# @ buddyboss-media
+#: includes/types/photo-hooks.php:158
+msgid "View Discussion"
+msgstr "Afficher les discussions"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:192
+msgid "Resizing..."
+msgstr "Redimension…"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:51
+#: includes/types/photo-hooks.php:140
+msgid "You"
+msgstr "Vous"
+
+# @ buddyboss-media
+#: includes/types/photo-hooks.php:384
+msgid "new photo"
+msgstr "nouvelle photo"
+
+# @ bb-buddyboss-media
+#: includes/admin.php:302
+msgid "Settings"
+msgstr "Réglages"
+
+# @ buddyboss-media
+#: includes/admin.php:203
+msgid "Activity Photo Size"
+msgstr "Taille des Photos dans le Fil d’Activités"
+
+# @ buddyboss-media
+#: includes/admin.php:204
+msgid "Photo Layout"
+msgstr "Mise en Page Photo"
+
+# @ buddyboss-media
+#: includes/admin.php:206
+msgid "Friend Tagging"
+msgstr "Etiquettage des Contacts"
+
+# @ buddyboss-media
+#: includes/admin.php:479
+msgid "Medium"
+msgstr "Moyenne"
+
+# @ buddyboss-media
+#: includes/admin.php:489
+msgid "Image size displayed in activity posts."
+msgstr ""
+"Indiquer la taille que les photos auront dans l’affichage du fil d’Activité."
+
+# @ buddyboss-media
+#: includes/admin.php:506
+msgid "Grid"
+msgstr "Grille"
+
+# @ buddyboss-media
+#: includes/admin.php:507
+msgid "Activity Posts"
+msgstr "Notes d’Activité"
+
+# @ buddyboss-media
+#: includes/admin.php:514
+msgid "In your albums, you can display photos in a grid or as activity posts."
+msgstr ""
+"Dans vos albums, vous pouvez afficher les photos en grille ou en fil "
+"d’activités."
+
+# @ buddyboss-media
+#: includes/admin.php:534
+msgid "Enable Tagging."
+msgstr "Activer l’Étiquettage."
+
+# @ buddyboss-media
+#: includes/admin.php:535
+msgid "Allow members to tag friends in media uploads."
+msgstr "Permettre aux membres d’étiquetter des amis dans leurs média."
+
+# @ buddyboss-media
+#: includes/albums/album-functions.php:496
+msgid "Something went wrong!"
+msgstr "Quelque chose a mal tourné!"
+
+# @ buddyboss-media
+#: includes/albums/album-functions.php:510
+#: includes/albums/album-functions.php:518
+msgid "Access denied!"
+msgstr "Accès refusé!"
+
+# @ buddyboss-media
+#: includes/albums/album-functions.php:573
+msgid "Added to album."
+msgstr "Ajouté à l’album."
+
+# @ buddyboss-media
+#: includes/albums/album-screens.php:63
+msgid "Album title cannot be empty."
+msgstr "Le titre de l’album ne peut être vide."
+
+# @ buddyboss-media
+#: includes/albums/album-screens.php:75
+msgid "Album created successfully."
+msgstr "Album créé avec succès."
+
+# @ buddyboss-media
+#: includes/albums/album-screens.php:83
+msgid "Album was successfully updated."
+msgstr "Album mis à jour avec succès."
+
+# @ buddyboss-media
+#: includes/albums/album-screens.php:100
+msgid "Album deleted successfuly!"
+msgstr "Album effacé avec succès!"
+
+# @ buddyboss-media
+#: includes/albums/album-screens.php:103
+msgid "Access Denied!"
+msgstr "Accès Refusé!"
+
+# @ buddyboss-media
+#: includes/albums/album-screens.php:106
+msgid "Invalid request!"
+msgstr "Requête Invalide!"
+
+# @ buddyboss-media
+#: includes/albums/album-template.php:144
+msgctxt "Album pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+# @ buddyboss-media
+#: includes/albums/album-template.php:145
+msgctxt "Album pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+# @ buddyboss-media
+#: includes/albums/album-template.php:447
+#, php-format
+msgid "created %s ago"
+msgstr "créé il y a %s"
+
+# @ buddyboss-media
+#: includes/albums/album-template.php:455
+#, php-format
+msgid "%s photos"
+msgstr "%s photos"
+
+# @ buddyboss-media
+#: includes/albums/album-template.php:472
+msgid "Album"
+msgstr "Album"
+
+# @ buddyboss-media
+#: includes/albums/album-template.php:508
+msgid ""
+"Are you sure you want to delete this album? When you delete an album, all "
+"its photos go under global uploads."
+msgstr ""
+"Voulez-vous vraiment effacer cet album? Lorsque vous effacez un album, "
+"toutes les photos s’en vont dans le dossier global."
+
+# @ buddyboss-media
+#: includes/albums/album-template.php:510
+msgid "Delete Album"
+msgstr "Effacer l’Album"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging.php:48
+msgid "Tag Photo"
+msgstr "Etiquetter la Photo"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging.php:145
+#: includes/tagging/class.BuddyBoss_Media_Tagging.php:234
+msgid "You have no friends yet!"
+msgstr "Vous n’avez pas d’amins encore!"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:90
+#, php-format
+msgid "You and %s"
+msgstr "Vous et %s"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:92
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:99
+#, php-format
+msgid "You, %s and %s"
+msgstr "Vous, %s et %s"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:102
+#, php-format
+msgid "%s and %s"
+msgstr "%s et %s"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:109
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:132
+#, php-format
+msgid "You, %s, %s and %s"
+msgstr "Vous, %s, %s et %s"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:112
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:136
+#, php-format
+msgid "%s, %s and %s"
+msgstr "%s, %s et %s"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:127
+#, php-format
+msgid "%s others"
+msgstr "%s autres"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Hooks.php:142
+#, php-format
+msgid " - with %s"
+msgstr " - avec %s"
+
+# @ buddyboss-media
+#: includes/tagging/class.BuddyBoss_Media_Tagging_Notifications.php:53
+#, php-format
+msgid "%s tagged you in a photo"
+msgstr "%s vous a étiquetté dans une photo"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:368
+msgid "In photo album:"
+msgstr "Dans l’album:"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:374
+msgid "[None]"
+msgstr "[aucun]"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:379
+msgid "You have not created any albums yet!"
+msgstr "Vous n’avez pas créé d’Album encore!"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:385
+msgid "Save"
+msgstr "Sauvegarder"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:462 includes/types/photo-class.php:495
+msgid "Uploads"
+msgstr "Transférer"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:471 includes/types/photo-class.php:502
+#: templates/members/single/buddyboss-media-albums.php:12
+msgid "Albums"
+msgstr "Albums"
+
+# @ buddyboss-media
+#: includes/types/photo-hooks.php:84
+msgid "posted a photo"
+msgstr "a posté une photo"
+
+# @ buddyboss-media
+#: templates/activity/buddyboss-media-activity-loop.php:21
+msgid "Load More"
+msgstr "Lire la Suite"
+
+# @ buddyboss-media
+#: templates/activity/buddyboss-media-activity-loop.php:36
+msgid "Sorry, there were no photos found."
+msgstr "Désolé, aucune photo trouvée."
+
+# @ buddyboss-media
+#: templates/global-media-albums.php:25 templates/global-media.php:24
+msgid "All Photos"
+msgstr "Toutes les Photos"
+
+# @ buddyboss-media
+#: templates/global-media-albums.php:26 templates/global-media.php:25
+msgid "All Albums"
+msgstr "Tous les Albums"
+
+# @ buddyboss-media
+#: templates/global-media-albums.php:84
+#: templates/members/single/buddyboss-media-album-edit.php:68
+#: templates/members/single/buddyboss-media-album.php:51
+#: templates/members/single/buddyboss-media-albums.php:83
+msgid "There were no albums found."
+msgstr "Aucun album trouvé."
+
+# @ buddyboss-media
+#: templates/loop-tagged-friends.php:23
+msgid "Remove Tag"
+msgstr "Enlever l’Etiquette"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:12
+#: templates/members/single/buddyboss-media-albums.php:20
+msgid "Create an Album"
+msgstr "Créer un Album"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:24
+#: templates/members/single/buddyboss-media-album-edit.php:25
+msgid "Title (required)"
+msgstr "Titre (requis)"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:29
+#: templates/members/single/buddyboss-media-album-edit.php:30
+msgid "Description"
+msgstr "Description"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:34
+#: templates/members/single/buddyboss-media-album-edit.php:35
+msgid "Visibility (required)"
+msgstr "Visibilité (requis)"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:38
+#: templates/members/single/buddyboss-media-album-edit.php:39
+msgid "Everyone"
+msgstr "Tous"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:39
+#: templates/members/single/buddyboss-media-album-edit.php:40
+msgid "Only Me"
+msgstr "Seulement moi"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:43
+#: templates/members/single/buddyboss-media-album-edit.php:45
+msgid "My Friends"
+msgstr "Seulement mes amis"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-edit.php:14
+#: templates/members/single/buddyboss-media-album.php:23
+msgid "Edit Album"
+msgstr "Editer l’Album"
+
+# @ buddyboss-media
+#: templates/tag-friends.php:21
+msgid "Done Tagging"
+msgstr "Étiquettage Terminé"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:199
+msgid "Sure you want to delete this photo?"
+msgstr "Vous voulez vraiment effacer cette photo?"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:534
+msgid "Photo does not exists."
+msgstr "Cette photo n’existe plus."
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:549
+msgid "You don't have permission to delete this photo."
+msgstr "Vous n’avez pas la permission d’effacer cette photo."
+
+# @ buddyboss-media
+#: includes/admin.php:274
+msgid "BuddyBoss Media"
+msgstr "BuddyBoss Media"
+
+# @ buddyboss-media
+#: includes/types/photo-hooks.php:98
+msgid "in the group"
+msgstr "dans le groupe"
+
+# @ buddyboss-media
+#: includes/main-class.php:799 includes/main-class.php:801
+msgid "BuddyPress Settings"
+msgstr "Paramètres de BuddyPress"
+
+# @ buddyboss-media
+#: includes/main-class.php:803
+#, php-format
+msgid ""
+"Hey! BuddyBoss Media requires activity component be enabled. Please enable "
+"it in your %s."
+msgstr ""
+"Hum, BuddyBoss Media requière que l’option Activités du Site soit activée.  "
+"Veuillez l’activer dans votre %s."
+
+# @ buddyboss-media
+#: includes/admin.php:208
+msgid "Max. Files per Batch"
+msgstr "Max Fichiers par Envois"
+
+# @ buddyboss-media
+#: includes/admin.php:553
+msgid "Maximum number of images that can be uploaded in one batch."
+msgstr ""
+"Nombre maximum d’images qui peuvent être transférées dans un seul envois."
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:196 includes/types/photo-class.php:319
+msgid "Add Photos"
+msgstr "Ajouter des images"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:197
+#, php-format
+msgid "Add photos, %s"
+msgstr "Ajout de photos, %s"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:200
+#, php-format
+msgid "You can upload a maximum of %s photos in one update"
+msgstr "Vous pouvez ajouter un maximum de %s photos par envois"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:338 includes/types/photo-class.php:404
+msgid "Drop files anywhere to upload"
+msgstr "Déposez vos fichiers n’importe où pour les transférer"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:339 includes/types/photo-class.php:405
+msgid "or"
+msgstr "ou"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:340 includes/types/photo-class.php:406
+msgid "Select Files"
+msgstr "Sélectionner des fichiers"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:398
+msgid "Say something about the photo(s)..."
+msgstr "Dire quelque chose à propos des photos…"
+
+# @ buddypress
+#: includes/types/photo-class.php:408
+msgid "Post Update"
+msgstr "Publier la note"
+
+# @ buddyboss-media
+#: includes/types/photo-hooks.php:87
+#, php-format
+msgid "posted %s photos"
+msgstr "a posté %s photos"
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-album-create.php:40
+#: templates/members/single/buddyboss-media-album-edit.php:41
+msgid "Logged In Users"
+msgstr "Usagers Connectés"
+
+# @ buddyboss-media
+#: includes/admin.php:480
+msgid "Large"
+msgstr "Grande"
+
+# @ buddyboss-media
+#: includes/admin.php:279
+msgid "Settings updated."
+msgstr "Réglage mis à jour."

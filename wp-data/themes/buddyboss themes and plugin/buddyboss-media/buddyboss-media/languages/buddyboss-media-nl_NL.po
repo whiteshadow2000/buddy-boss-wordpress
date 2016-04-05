@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss Media 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-13 20:10-0600\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: nl\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ default
+#: includes/admin.php:223
+msgid "Save Changes"
+msgstr "Wijzigingen Opslaan"
+
+# @ buddyboss-media
+#: includes/admin.php:287
+msgid "Enable Media Component."
+msgstr ""
+
+# @ buddyboss-media
+#: includes/admin.php:310
+msgid "Enable mobile theme on iPad."
+msgstr ""
+
+# @ buddyboss-media
+#: includes/admin.php:360
+msgid "Choose a theme for mobile phones."
+msgstr ""
+
+# @ buddyboss-media
+#: includes/admin.php:439
+msgid "   image size must be 114 x 114 px"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/main-class.php:214 includes/main-class.php:221
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:71
+#, php-format
+msgid "%s mentioned you in an update"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:75
+#, php-format
+msgid ""
+"%1$s mentioned you in the group \"%2$s\":\n"
+"\n"
+"\"%3$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %4$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:85
+#, php-format
+msgid ""
+"%1$s mentioned you in an update:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view and respond to the message, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:97
+#: includes/media-bp-notifications.php:175
+#: includes/media-bp-notifications.php:223
+#, php-format
+msgid "To disable these notifications please log in and go to: %s"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:162
+#, php-format
+msgid "%s replied to one of your updates"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:164
+#, php-format
+msgid ""
+"%1$s replied to one of your updates:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view your original update and all comments, log in and visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:206
+#, php-format
+msgid "%s replied to one of your comments"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-bp-notifications.php:212
+#, php-format
+msgid ""
+"%1$s replied to one of your comments:\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view the original activity, your comment and all replies, log in and "
+"visit: %3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/media-pagination.php:140
+msgid "First"
+msgstr "Eerste"
+
+# @ buddyboss-media
+#: includes/media-pagination.php:174
+msgid "Last"
+msgstr "Laatste"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:73 includes/types/photo-class.php:363
+#: includes/types/photo-class.php:384
+msgid "Photos"
+msgstr "Foto's"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:164
+msgid "Picture upload currently in progress, please wait until completed."
+msgstr ""
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:165
+msgid "Error uploading photo."
+msgstr ""
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:166
+msgid "One moment..."
+msgstr ""
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:167
+msgid "Upload a Picture"
+msgstr ""
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:168
+msgid "Cancel"
+msgstr "Annuleren"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:169
+msgid "Failed"
+msgstr "Mislukt"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:170 includes/types/photo-class.php:300
+msgid "Add Photo"
+msgstr "Foto Toevoegen"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:171
+#, php-format
+msgid "Add a photo, %s"
+msgstr "Foto toevoegen, %s"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:172
+msgid "Photo is currently uploading, please wait!"
+msgstr "Foto wordt geüpload, een ogenblik geduld!"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:353
+#, php-format
+msgid "Photos <span>%d</span>"
+msgstr "Foto's <span>%d</span>"
+
+# @ buddyboss-media
+#: includes/types/photo-class.php:391
+msgid "View"
+msgstr "Bekijk"
+
+# @ buddyboss-media
+#: includes/types/photo-hooks.php:32
+msgid "posted a new picture"
+msgstr "heeft een foto geplaatst"
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:90
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ buddyboss-media
+#: loader.php:75
+#, php-format
+msgid "Couldn't load main class at:<br/>%s"
+msgstr ""
+
+# @ buddyboss-media
+#: loader.php:81
+#, php-format
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr ""
+
+# @ buddyboss-media
+#: templates/members/single/buddyboss-media-photos.php:94
+msgid "There were no photos found."
+msgstr "Geen foto's gevonden"
+
+# @ buddyboss-media
+#: includes/main-class.php:672
+msgid ""
+"To use the <strong>BuddyBoss Media</strong> plugin, please upgrade your "
+"BuddyBoss theme to version 4.0 or above first."
+msgstr ""
+
+# @ buddyboss-media
+#: includes/main-class.php:673
+msgid "Disable Notice"
+msgstr ""
